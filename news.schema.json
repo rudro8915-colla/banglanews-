@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bangla News public feed",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "generatedAt",
+    "articles",
+    "sources"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "url",
+          "status"
+        ]
+      }
+    },
+    "articles": {
+      "type": "array",
+      "maxItems": 3000,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "sourceId",
+          "sourceName",
+          "title",
+          "description",
+          "url",
+          "canonicalUrl",
+          "guid",
+          "publishedAt",
+          "firstSeenAt",
+          "category",
+          "contentHash",
+          "isBreaking"
+        ],
+        "properties": {
+          "id": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1,
+            "maxLength": 500
+          },
+          "description": {
+            "type": "string",
+            "maxLength": 160
+          },
+          "url": {
+            "type": "string",
+            "pattern": "^https://"
+          },
+          "publishedAt": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "category": {
+            "enum": [
+              "national",
+              "international",
+              "politics",
+              "economy",
+              "sports",
+              "technology",
+              "entertainment",
+              "education",
+              "health"
+            ]
+          },
+          "isBreaking": {
+            "type": "boolean"
+          }
+        }
+      }
+    }
+  }
+}

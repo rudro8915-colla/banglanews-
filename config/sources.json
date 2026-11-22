@@ -1,0 +1,449 @@
+[
+  {
+    "id": "prothomalo",
+    "name": "প্রথম আলো",
+    "url": "https://www.prothomalo.com",
+    "feed": "https://www.prothomalo.com/feed",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "prothomalo.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.prothomalo.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "dailystar",
+    "name": "The Daily Star",
+    "url": "https://www.thedailystar.net",
+    "feed": "https://www.thedailystar.net/news/bangladesh/rss.xml",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "thedailystar.net"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.thedailystar.net",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "ittefaq",
+    "name": "ইত্তেফাক",
+    "url": "https://www.ittefaq.com.bd",
+    "feed": "https://www.ittefaq.com.bd/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "ittefaq.com.bd"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.ittefaq.com.bd",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "jugantor",
+    "name": "যুগান্তর",
+    "url": "https://www.jugantor.com",
+    "feed": "https://www.jugantor.com/feed/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 403",
+    "articleDomains": [
+      "jugantor.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.jugantor.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "samakal",
+    "name": "সমকাল",
+    "url": "https://samakal.com",
+    "feed": "https://samakal.com/rss.xml",
+    "enabled": false,
+    "reason": "ValueError",
+    "articleDomains": [
+      "samakal.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://samakal.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "kalerkantho",
+    "name": "কালের কণ্ঠ",
+    "url": "https://www.kalerkantho.com",
+    "feed": "https://www.kalerkantho.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 403",
+    "articleDomains": [
+      "kalerkantho.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.kalerkantho.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "bdpratidin",
+    "name": "বাংলাদেশ প্রতিদিন",
+    "url": "https://www.bd-pratidin.com",
+    "feed": "https://www.bd-pratidin.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 403",
+    "articleDomains": [
+      "bd-pratidin.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.bd-pratidin.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "dhakatribune",
+    "name": "Dhaka Tribune",
+    "url": "https://www.dhakatribune.com",
+    "feed": "https://www.dhakatribune.com/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "dhakatribune.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.dhakatribune.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "banglatribune",
+    "name": "বাংলা ট্রিবিউন",
+    "url": "https://www.banglatribune.com",
+    "feed": "https://www.banglatribune.com/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "banglatribune.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.banglatribune.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "tbs",
+    "name": "The Business Standard",
+    "url": "https://www.tbsnews.net",
+    "feed": "https://www.tbsnews.net/bangladesh/rss.xml",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "tbsnews.net"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.tbsnews.net",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "bdnews24",
+    "name": "bdnews24.com",
+    "url": "https://bdnews24.com",
+    "feed": "https://bdnews24.com/?widgetName=rssfeed&widgetId=1150&getXmlFeed=true",
+    "enabled": false,
+    "reason": "ValueError",
+    "articleDomains": [
+      "bdnews24.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://bdnews24.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "jagonews",
+    "name": "জাগো নিউজ ২৪",
+    "url": "https://www.jagonews24.com",
+    "feed": "https://www.jagonews24.com/rss/rss.xml",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "jagonews24.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.jagonews24.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "banglanews24",
+    "name": "বাংলানিউজটোয়েন্টিফোর",
+    "url": "https://www.banglanews24.com",
+    "feed": "https://www.banglanews24.com/rss/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "banglanews24.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.banglanews24.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "dhakapost",
+    "name": "ঢাকা পোস্ট",
+    "url": "https://www.dhakapost.com",
+    "feed": "https://www.dhakapost.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "dhakapost.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.dhakapost.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "manabzamin",
+    "name": "মানবজমিন",
+    "url": "https://mzamin.com",
+    "feed": "https://mzamin.com/rss.php",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "mzamin.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://mzamin.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "nayadiganta",
+    "name": "নয়া দিগন্ত",
+    "url": "https://dailynayadiganta.com",
+    "feed": "https://dailynayadiganta.com/rss.xml",
+    "enabled": false,
+    "reason": "ValueError",
+    "articleDomains": [
+      "dailynayadiganta.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://dailynayadiganta.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "bonikbarta",
+    "name": "বণিক বার্তা",
+    "url": "https://bonikbarta.com",
+    "feed": "https://bonikbarta.com/feed",
+    "enabled": false,
+    "reason": "ValueError",
+    "articleDomains": [
+      "bonikbarta.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://bonikbarta.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "deshrupantor",
+    "name": "দেশ রূপান্তর",
+    "url": "https://www.deshrupantor.com",
+    "feed": "https://www.deshrupantor.com/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "deshrupantor.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.deshrupantor.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "ajkerpatrika",
+    "name": "আজকের পত্রিকা",
+    "url": "https://www.ajkerpatrika.com",
+    "feed": "https://www.ajkerpatrika.com/feed",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "ajkerpatrika.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.ajkerpatrika.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "kalbela",
+    "name": "কালবেলা",
+    "url": "https://www.kalbela.com",
+    "feed": "https://www.kalbela.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 403",
+    "articleDomains": [
+      "kalbela.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.kalbela.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "dailyamardesh",
+    "name": "আমার দেশ",
+    "url": "https://www.dailyamardesh.com",
+    "feed": null,
+    "enabled": false,
+    "reason": "Pending live RSS verification",
+    "articleDomains": [
+      "dailyamardesh.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.dailyamardesh.com"
+  },
+  {
+    "id": "dailyinqilab",
+    "name": "দৈনিক ইনকিলাব",
+    "url": "https://dailyinqilab.com",
+    "feed": "https://dailyinqilab.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "dailyinqilab.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://dailyinqilab.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "newage",
+    "name": "NEW AGE",
+    "url": "https://www.newagebd.net",
+    "feed": "https://www.newagebd.net/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "newagebd.net"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.newagebd.net",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "financialexpress",
+    "name": "The Financial Express",
+    "url": "https://thefinancialexpress.com.bd",
+    "feed": "https://thefinancialexpress.com.bd/feed",
+    "enabled": false,
+    "reason": "HTTPError: 404",
+    "articleDomains": [
+      "thefinancialexpress.com.bd"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://thefinancialexpress.com.bd",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "dailysun",
+    "name": "daily sun",
+    "url": "https://www.daily-sun.com",
+    "feed": "https://www.daily-sun.com/rss.xml",
+    "enabled": false,
+    "reason": "HTTPError: 403",
+    "articleDomains": [
+      "daily-sun.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.daily-sun.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "observer",
+    "name": "The Daily Observer",
+    "url": "https://www.observerbd.com",
+    "feed": "https://www.observerbd.com/rss.php",
+    "enabled": false,
+    "reason": "HTTPError: 415",
+    "articleDomains": [
+      "observerbd.com"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://www.observerbd.com",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "purbokone",
+    "name": "দৈনিক পূর্বকোণ",
+    "url": "https://dainikpurbokone.net",
+    "feed": "https://dainikpurbokone.net/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "dainikpurbokone.net"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://dainikpurbokone.net",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "azadi",
+    "name": "দৈনিক আজাদী",
+    "url": "https://dainikazadi.net",
+    "feed": "https://dainikazadi.net/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "dainikazadi.net"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://dainikazadi.net",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "sylheterdak",
+    "name": "সিলেটের ডাক",
+    "url": "https://sylheterdak.com.bd",
+    "feed": "https://sylheterdak.com.bd/feed/",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "sylheterdak.com.bd"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://sylheterdak.com.bd",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "sangbad",
+    "name": "সংবাদ",
+    "url": "https://sangbad.net.bd",
+    "feed": null,
+    "enabled": false,
+    "reason": "Pending live RSS verification",
+    "articleDomains": [
+      "sangbad.net.bd"
+    ],
+    "defaultCategory": "national",
+    "evidence": "https://sangbad.net.bd"
+  },
+  {
+    "id": "bbcnews",
+    "name": "BBC News",
+    "url": "https://www.bbc.com/news",
+    "feed": "https://feeds.bbci.co.uk/news/rss.xml",
+    "enabled": true,
+    "reason": "Verified official-domain RSS/Atom with recent articles",
+    "articleDomains": [
+      "bbc.com",
+      "bbc.co.uk"
+    ],
+    "defaultCategory": "international",
+    "evidence": "https://support.bbc.co.uk/platform/feeds/NewsFeeds.htm",
+    "verifiedAt": "2026-11-22T02:48:28.987027Z"
+  },
+  {
+    "id": "bbcbangla",
+    "name": "বিবিসি বাংলা",
+    "url": "https://www.bbc.com/bengali",
+    "feed": null,
+    "enabled": false,
+    "reason": "No current official Bangla RSS URL verified; original publisher link remains available.",
+    "articleDomains": [
+      "bbc.com",
+      "bbc.co.uk"
+    ],
+    "defaultCategory": "international",
+    "evidence": "https://www.bbc.com/bengali"
+  }
+]

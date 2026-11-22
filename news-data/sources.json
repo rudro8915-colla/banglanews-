@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-11-22T03:06:51.187604Z",
+  "sources": [
+    {
+      "id": "prothomalo",
+      "name": "প্রথম আলো",
+      "url": "https://www.prothomalo.com",
+      "status": "ok",
+      "reason": "",
+      "count": 77
+    },
+    {
+      "id": "dailystar",
+      "name": "The Daily Star",
+      "url": "https://www.thedailystar.net",
+      "status": "ok",
+      "reason": "",
+      "count": 40
+    },
+    {
+      "id": "ittefaq",
+      "name": "ইত্তেফাক",
+      "url": "https://www.ittefaq.com.bd",
+      "status": "ok",
+      "reason": "",
+      "count": 128
+    },
+    {
+      "id": "jugantor",
+      "name": "যুগান্তর",
+      "url": "https://www.jugantor.com",
+      "status": "disabled",
+      "reason": "HTTPError: 403",
+      "count": 0
+    },
+    {
+      "id": "samakal",
+      "name": "সমকাল",
+      "url": "https://samakal.com",
+      "status": "disabled",
+      "reason": "ValueError",
+      "count": 0
+    },
+    {
+      "id": "kalerkantho",
+      "name": "কালের কণ্ঠ",
+      "url": "https://www.kalerkantho.com",
+      "status": "disabled",
+      "reason": "HTTPError: 403",
+      "count": 0
+    },
+    {
+      "id": "bdpratidin",
+      "name": "বাংলাদেশ প্রতিদিন",
+      "url": "https://www.bd-pratidin.com",
+      "status": "disabled",
+      "reason": "HTTPError: 403",
+      "count": 12
+    },
+    {
+      "id": "dhakatribune",
+      "name": "Dhaka Tribune",
+      "url": "https://www.dhakatribune.com",
+      "status": "ok",
+      "reason": "",
+      "count": 115
+    },
+    {
+      "id": "banglatribune",
+      "name": "বাংলা ট্রিবিউন",
+      "url": "https://www.banglatribune.com",
+      "status": "ok",
+      "reason": "",
+      "count": 116
+    },
+    {
+      "id": "tbs",
+      "name": "The Business Standard",
+      "url": "https://www.tbsnews.net",
+      "status": "ok",
+      "reason": "",
+      "count": 64
+    },
+    {
+      "id": "bdnews24",
+      "name": "bdnews24.com",
+      "url": "https://bdnews24.com",
+      "status": "disabled",
+      "reason": "ValueError",
+      "count": 0
+    },
+    {
+      "id": "jagonews",
+      "name": "জাগো নিউজ ২৪",
+      "url": "https://www.jagonews24.com",
+      "status": "ok",
+      "reason": "",
+      "count": 117
+    },
+    {
+      "id": "banglanews24",
+      "name": "বাংলানিউজটোয়েন্টিফোর",
+      "url": "https://www.banglanews24.com",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "dhakapost",
+      "name": "ঢাকা পোস্ট",
+      "url": "https://www.dhakapost.com",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "manabzamin",
+      "name": "মানবজমিন",
+      "url": "https://mzamin.com",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "nayadiganta",
+      "name": "নয়া দিগন্ত",
+      "url": "https://dailynayadiganta.com",
+      "status": "disabled",
+      "reason": "ValueError",
+      "count": 0
+    },
+    {
+      "id": "bonikbarta",
+      "name": "বণিক বার্তা",
+      "url": "https://bonikbarta.com",
+      "status": "disabled",
+      "reason": "ValueError",
+      "count": 0
+    },
+    {
+      "id": "deshrupantor",
+      "name": "দেশ রূপান্তর",
+      "url": "https://www.deshrupantor.com",
+      "status": "ok",
+      "reason": "",
+      "count": 128
+    },
+    {
+      "id": "ajkerpatrika",
+      "name": "আজকের পত্রিকা",
+      "url": "https://www.ajkerpatrika.com",
+      "status": "ok",
+      "reason": "",
+      "count": 69
+    },
+    {
+      "id": "kalbela",
+      "name": "কালবেলা",
+      "url": "https://www.kalbela.com",
+      "status": "disabled",
+      "reason": "HTTPError: 403",
+      "count": 0
+    },
+    {
+      "id": "dailyamardesh",
+      "name": "আমার দেশ",
+      "url": "https://www.dailyamardesh.com",
+      "status": "disabled",
+      "reason": "Pending live RSS verification",
+      "count": 0
+    },
+    {
+      "id": "dailyinqilab",
+      "name": "দৈনিক ইনকিলাব",
+      "url": "https://dailyinqilab.com",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "newage",
+      "name": "NEW AGE",
+      "url": "https://www.newagebd.net",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "financialexpress",
+      "name": "The Financial Express",
+      "url": "https://thefinancialexpress.com.bd",
+      "status": "disabled",
+      "reason": "HTTPError: 404",
+      "count": 0
+    },
+    {
+      "id": "dailysun",
+      "name": "daily sun",
+      "url": "https://www.daily-sun.com",
+      "status": "disabled",
+      "reason": "HTTPError: 403",
+      "count": 0
+    },
+    {
+      "id": "observer",
+      "name": "The Daily Observer",
+      "url": "https://www.observerbd.com",
+      "status": "disabled",
+      "reason": "HTTPError: 415",
+      "count": 0
+    },
+    {
+      "id": "purbokone",
+      "name": "দৈনিক পূর্বকোণ",
+      "url": "https://dainikpurbokone.net",
+      "status": "ok",
+      "reason": "",
+      "count": 11
+    },
+    {
+      "id": "azadi",
+      "name": "দৈনিক আজাদী",
+      "url": "https://dainikazadi.net",
+      "status": "ok",
+      "reason": "",
+      "count": 50
+    },
+    {
+      "id": "sylheterdak",
+      "name": "সিলেটের ডাক",
+      "url": "https://sylheterdak.com.bd",
+      "status": "ok",
+      "reason": "",
+      "count": 21
+    },
+    {
+      "id": "sangbad",
+      "name": "সংবাদ",
+      "url": "https://sangbad.net.bd",
+      "status": "disabled",
+      "reason": "Pending live RSS verification",
+      "count": 0
+    },
+    {
+      "id": "bbcnews",
+      "name": "BBC News",
+      "url": "https://www.bbc.com/news",
+      "status": "ok",
+      "reason": "",
+      "count": 34
+    },
+    {
+      "id": "bbcbangla",
+      "name": "বিবিসি বাংলা",
+      "url": "https://www.bbc.com/bengali",
+      "status": "disabled",
+      "reason": "No current official Bangla RSS URL verified; original publisher link remains available.",
+      "count": 0
+    }
+  ]
+}
