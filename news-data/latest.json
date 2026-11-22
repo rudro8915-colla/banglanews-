@@ -1,22 +1,86 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T03:06:51.187604Z",
+  "generatedAt": "2026-11-22T03:10:33.978045Z",
   "articles": [
     {
       "id": "a2581abadaecb3b96ae43fe6",
       "sourceId": "deshrupantor",
       "sourceName": "দেশ রূপান্তর",
-      "title": "স্বরাষ্ট্র মন্ত্রণালয়ের উদাসীনতার ফলেই সাদিক কায়েমের বাড়িতে হামলা: পরওয়ার",
+      "title": "স্বরাষ্ট্র মন্ত্রণালয়ের উদাসীনতায় সাদিক কায়েমের বাড়িতে হামলা: পরওয়ার",
       "description": "রবিবার ভোররাত সাড়ে ৩টার দিকে খাগড়াছড়িতে অবস্থিত তার গ্রামের বাড়িতে নিষিদ্ধ ঘোষিত আওয়ামী লীগের নেতাকর্মীরা পেট্রোলবোমা ও কেরোসিন ঢেলে অগ্নিসংযোগের চেষ্টা চ…",
       "url": "https://www.deshrupantor.com/736985/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95",
       "canonicalUrl": "https://deshrupantor.com/736985/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95",
       "guid": "https://www.deshrupantor.com/736985/%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AE%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%A3%E0%A6%BE%E0%A6%B2%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%A8%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%AB%E0%A6%B2%E0%A7%87%E0%A6%87-%E0%A6%B8%E0%A6%BE%E0%A6%A6%E0%A6%BF%E0%A6%95",
-      "publishedAt": "2026-11-22T03:05:36Z",
+      "publishedAt": "2026-11-22T03:09:09Z",
       "firstSeenAt": "2026-11-22T03:06:51.187604Z",
       "category": "politics",
       "categoryName": "রাজনীতি",
       "isBreaking": false,
-      "contentHash": "5ea5fa0eab910a5fa533f73da87f734e5a5150381cd5f30fc6d2326478415d81"
+      "contentHash": "c763e8a88188c0906f21bb15120e621fab6266b568a31e59f82cd4890bccf9ad"
+    },
+    {
+      "id": "8d8a4dcb9b0885253dae05eb",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "যুক্তরাষ্ট্রে খালেদা জিয়ার নামে সড়কের প্রস্তাব, নাম ‘মাদার অব ডেমোক্রেসি’",
+      "description": "যুক্তরাষ্ট্রের শিকাগো শহরে বাংলাদেশের সাবেক প্রধানমন্ত্রী ও বিএনপির প্রয়াত চেয়ারপারসন খালেদা জিয়ার নামে একটি সড়কের নামকরণের প্রস্তাব করা হয়েছে। সড়কটির সম…",
+      "url": "https://www.banglatribune.com/foreign/asia/982457/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC",
+      "canonicalUrl": "https://banglatribune.com/foreign/asia/982457/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC",
+      "guid": "https://www.banglatribune.com/foreign/asia/982457/%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A7%87-%E0%A6%96%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A6%E0%A6%BE-%E0%A6%9C%E0%A6%BF%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B0-%E0%A6%A8%E0%A6%BE%E0%A6%AE%E0%A7%87-%E0%A6%B8%E0%A6%A1%E0%A6%BC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%AC",
+      "publishedAt": "2026-11-22T03:08:42Z",
+      "firstSeenAt": "2026-11-22T03:10:33.978045Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "dfb0cf2383d9cfa2983e4653785027b904a33ed6a977776b5a5b28fbc8f2f65a"
+    },
+    {
+      "id": "39db07519904dd0f1574ad09",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "সাভার-আশুলিয়ায় কাজে ফিরেছেন শ্রমিকরা, বন্ধ ২৩ কারখানা",
+      "description": "তৈরি পোশাকশ্রমিকদের নিম্নতম মজুরি নির্ধারণের দাবিতে চলমান শ্রমিক অসন্তোষের মধ্যে ঢাকার সাভার ও আশুলিয়া শিল্পাঞ্চলে আজ সপ্তাহের দ্বিতীয় কর্মদিবসের সকাল শুরু হ…",
+      "url": "https://www.banglatribune.com/country/dhaka/982456/%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A7%A8%E0%A7%A9",
+      "canonicalUrl": "https://banglatribune.com/country/dhaka/982456/%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A7%A8%E0%A7%A9",
+      "guid": "https://www.banglatribune.com/country/dhaka/982456/%E0%A6%B8%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%B0-%E0%A6%86%E0%A6%B6%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A7%9F-%E0%A6%95%E0%A6%BE%E0%A6%9C%E0%A7%87-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AE%E0%A6%BF%E0%A6%95%E0%A6%B0%E0%A6%BE-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%A7-%E0%A7%A8%E0%A7%A9",
+      "publishedAt": "2026-11-22T03:08:15Z",
+      "firstSeenAt": "2026-11-22T03:10:33.978045Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "b2a24673ec71670b9386476e8f61956af0785e568085546d7560b9514dbd0243"
+    },
+    {
+      "id": "5c117489fca3adcb463a90b1",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "টানা দ্বিতীয়বার গোল্ডেন বুট জয় মেসির",
+      "description": "মেজর লিগ সকারের (এমএলএস) ২০২৬ মৌসুমে সর্বোচ্চ গোলদাতার পুরস্কার গোল্ডেন বুট জিতেছেন লিওনেল মেসি। এর মধ্য দিয়ে লিগটির ইতিহাসে প্রথম খেলোয়াড় হিসেবে টানা দুই ম…",
+      "url": "https://www.ittefaq.com.bd/822322/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9F-%E0%A6%9C%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%B0",
+      "canonicalUrl": "https://ittefaq.com.bd/822322/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9F-%E0%A6%9C%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%B0",
+      "guid": "https://www.ittefaq.com.bd/822322/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%A6%E0%A7%8D%E0%A6%AC%E0%A6%BF%E0%A6%A4%E0%A7%80%E0%A7%9F%E0%A6%AC%E0%A6%BE%E0%A6%B0-%E0%A6%97%E0%A7%8B%E0%A6%B2%E0%A7%8D%E0%A6%A1%E0%A7%87%E0%A6%A8-%E0%A6%AC%E0%A7%81%E0%A6%9F-%E0%A6%9C%E0%A7%9F-%E0%A6%AE%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%B0",
+      "publishedAt": "2026-11-22T03:07:43Z",
+      "firstSeenAt": "2026-11-22T03:10:33.978045Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "fb269e4304e4436d1f450c84577ae752bcb2d48b8761e5224cedd8424b0c2184"
+    },
+    {
+      "id": "91a7a1d9e483a787e724e7ea",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "ঢাকা-চট্টগ্রাম মহাসড়কে চলন্ত বাসে আগুন",
+      "description": "নারায়ণগঞ্জের সিদ্ধিরগঞ্জে ঢাকা-চট্টগ্রাম মহাসড়কের সাইনবোর্ড এলাকায় চলন্ত অবস্থায় মঞ্জিল পরিবহনের একটি বাসে আগুন লাগার ঘটনা ঘটেছে। রোববার (২২ নভেম্বর) রাত স…",
+      "url": "https://www.ittefaq.com.bd/822321/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+      "canonicalUrl": "https://ittefaq.com.bd/822321/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+      "guid": "https://www.ittefaq.com.bd/822321/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE-%E0%A6%9A%E0%A6%9F%E0%A7%8D%E0%A6%9F%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE-%E0%A6%AE%E0%A6%B9%E0%A6%BE%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%9A%E0%A6%B2%E0%A6%A8%E0%A7%8D%E0%A6%A4-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8",
+      "publishedAt": "2026-11-22T03:07:41Z",
+      "firstSeenAt": "2026-11-22T03:10:33.978045Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "90936ab14adc6aefbaef407363220375204aee93245a76d9b2e8a5889dbcfa9d"
     },
     {
       "id": "c11ebe43b97ec1a88b869b0c",
@@ -230,8 +294,8 @@
       "id": "6959f2b0a18f2f8e264b2a07",
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
-      "title": "আওয়ামী দুষ্কৃতিকারীরা সব সীমা অতিক্রম করেছে: পরওয়ার",
-      "description": "আওয়ামী ফ্যাসিস্টের দুষ্কৃতিকারীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের (ডাকসু) ভিপি সাদিক কায়েমের খাগড়াছড়ির বাসায় বোমা নিক্ষেপ ও অগ্নিসংযোগ চেষ্টার…",
+      "title": "আওয়ামী দুষ্কৃতকারীরা সব সীমা অতিক্রম করেছে: পরওয়ার",
+      "description": "আওয়ামী ফ্যাসিস্টের দুষ্কৃতকারীরা ঢাকা বিশ্ববিদ্যালয় কেন্দ্রীয় ছাত্র সংসদের (ডাকসু) ভিপি সাদিক কায়েমের খাগড়াছড়ির বাসায় বোমা নিক্ষেপ ও অগ্নিসংযোগ চেষ্টার…",
       "url": "https://www.jagonews24.com/politics/news/1182159",
       "canonicalUrl": "https://jagonews24.com/politics/news/1182159",
       "guid": "https://www.jagonews24.com/politics/news/1182159",
@@ -240,7 +304,7 @@
       "category": "politics",
       "categoryName": "রাজনীতি",
       "isBreaking": false,
-      "contentHash": "32cd63b75cc1258ab47d6cb6183805002144c7d4ecd7616766a444e0f2b2a0ef"
+      "contentHash": "28055909b67c14a2859b7f59ea5910e045c866bf1e0904e0ce2d72c222dd82e1"
     },
     {
       "id": "c7d4d0fc5aa48072d126f727",
@@ -15738,7 +15802,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 128
+      "count": 130
     },
     {
       "id": "jugantor",
@@ -15786,7 +15850,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 116
+      "count": 118
     },
     {
       "id": "tbs",

@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T03:06:51.187604Z",
+  "generatedAt": "2026-11-22T03:10:33.978045Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 128
+      "count": 130
     },
     {
       "id": "jugantor",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 116
+      "count": 118
     },
     {
       "id": "tbs",
