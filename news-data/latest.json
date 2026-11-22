@@ -1,7 +1,135 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T22:42:58.805516Z",
+  "generatedAt": "2026-11-22T23:41:53.950916Z",
   "articles": [
+    {
+      "id": "c2af1bc421a7b36d3c2e2488",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "এনসিপি নেতাকে গ্রেফতারের পর পুলিশের ওপর ও থানায় হামলা, ৭ পুলিশ আহত",
+      "description": "ব্রাহ্মণবাড়িয়ার আখাউড়ায় বিস্ফোরক মামলার এজাহারভুক্ত আসামি ও উপজেলা জাতীয় নাগরিক পার্টির (এনসিপি) যুগ্ম আহ্বায়ক ছায়েব আলীকে গ্রেফতার করেছে পুলিশ। তার গ্র…",
+      "url": "https://www.banglatribune.com/country/chitagong/982641/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+      "canonicalUrl": "https://banglatribune.com/country/chitagong/982641/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+      "guid": "https://www.banglatribune.com/country/chitagong/982641/%E0%A6%8F%E0%A6%A8%E0%A6%B8%E0%A6%BF%E0%A6%AA%E0%A6%BF-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B2%E0%A6%BF%E0%A6%B6%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%93-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE%E0%A7%9F",
+      "publishedAt": "2026-11-22T23:36:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "514bc14f51fbefc0733703f3d79e04d1cb5c59698f0cc86c84dccf6b70f14092"
+    },
+    {
+      "id": "174be108aa918243c69dd17c",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "সমঝোতা ছাড়াই শেষ নেতানিয়াহু ও আইজেনকোটের জোট গঠনের আলোচনা",
+      "description": "ইসরায়েলের তত্ত্বাবধায়ক প্রধানমন্ত্রী বেঞ্জামিন নেতানিয়াহু এবং বিরোধী নেতা গাদি আইজেনকোটের দল সরকার গঠনের বিষয়ে কোনো সমঝোতায় পৌঁছাতে পারেনি...",
+      "url": "https://www.jagonews24.com/international/news/1182515",
+      "canonicalUrl": "https://jagonews24.com/international/news/1182515",
+      "guid": "https://www.jagonews24.com/international/news/1182515",
+      "publishedAt": "2026-11-22T23:35:50Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "076417c3a9387bf29b0450d5f483f0a8b02eb78f2c6201db25ec93f0177e845f"
+    },
+    {
+      "id": "dfc14e6ae9fcc59eafa3fbc5",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "A 'wow' player - why Ngumoha is already a Liverpool game-changer",
+      "description": "Match of the Day pundit Danny Murphy explains how Rio Ngumoha showed everyone what he is capable of in Liverpool's 4-0 win over Manchester United.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/articles/cmn80y5w84qqo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmn80y5w84qqo#8",
+      "publishedAt": "2026-11-22T23:20:16Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "616b22b3d93a9c50cf7b3b55196e282bd0517d9db6893a389791ba5874b7191f"
+    },
+    {
+      "id": "2053d9debb29d5b5cc6f34d5",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "গঙ্গা চুক্তির নবায়ন: ন্যায্যতা, সমতা ও পারস্পরিক সহযোগিতা",
+      "description": "গঙ্গার পানি শুধু একটি নদীর পানি নয়, এটি বাংলাদেশের কৃষি, খাদ্যনিরাপত্তা, পরিবেশ, জীববৈচিত্র্য, নদীনির্ভর অর্থনীতি এবং কোটি মানুষের জীবন-জীবিকার সঙ্গে জড়িত। এ…",
+      "url": "https://www.ittefaq.com.bd/822504/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95",
+      "canonicalUrl": "https://ittefaq.com.bd/822504/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95",
+      "guid": "https://www.ittefaq.com.bd/822504/%E0%A6%97%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A6%BE-%E0%A6%9A%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%BF%E0%A6%B0-%E0%A6%A8%E0%A6%AC%E0%A6%BE%E0%A7%9F%E0%A6%A8-%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%A4%E0%A6%BE-%E0%A6%B8%E0%A6%AE%E0%A6%A4%E0%A6%BE-%E0%A6%93-%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%95",
+      "publishedAt": "2026-11-22T23:18:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "3671a1f66a72d047cfea10c9e919f48b280d20aa312e7357cb7f8c600fb8f85a"
+    },
+    {
+      "id": "864d3348b5d0c487f6de0ced",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "মেশিন দিয়ে তৈরি করছিলেন ইয়াবা, শিখেছেন ইউটিউব ও চ্যাটজিপিটি থেকে",
+      "description": "বন্দর নগরী চট্টগ্রামে উদ্ধার হয়েছে মাদক ইয়াবা তৈরির মেশিনসহ বিভিন্ন সরঞ্জাম। এ মেশিনে তৈরি ইয়াবা দীর্ঘ দিন ধরে বিক্রি করা হচ্ছে চট্টগ্রামসহ বিভিন্ন এলাকায়।…",
+      "url": "https://www.banglatribune.com/country/chitagong/982642/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%89%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%AC-%E0%A6%93",
+      "canonicalUrl": "https://banglatribune.com/country/chitagong/982642/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%89%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%AC-%E0%A6%93",
+      "guid": "https://www.banglatribune.com/country/chitagong/982642/%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%A4%E0%A7%88%E0%A6%B0%E0%A6%BF-%E0%A6%95%E0%A6%B0%E0%A6%9B%E0%A6%BF%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A7%9F%E0%A6%BE%E0%A6%AC%E0%A6%BE-%E0%A6%B6%E0%A6%BF%E0%A6%96%E0%A7%87%E0%A6%9B%E0%A7%87%E0%A6%A8-%E0%A6%87%E0%A6%89%E0%A6%9F%E0%A6%BF%E0%A6%89%E0%A6%AC-%E0%A6%93",
+      "publishedAt": "2026-11-22T23:04:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "44fdf6275f43cad101e361992f766274a74b9bce6f9c404ab03711c0553db797"
+    },
+    {
+      "id": "2213541a6230ad1da894a3bc",
+      "sourceId": "deshrupantor",
+      "sourceName": "দেশ রূপান্তর",
+      "title": "টিভিতে আজ যা যা দেখা যাবে",
+      "description": "ওয়েলিংটন টেস্ট শেষ হচ্ছে আজ। ওদিকে সেঞ্চুরিয়ানে শুরু হচ্ছে বাংলাদেশ-দক্ষিণ আফ্রিকা দ্বিতীয় টেস্ট। এছাড়া বাংলাদেশ-শ্রীলঙ্কা এশিয়া কাপ রাইজিং স্টার্সের গ্রু…",
+      "url": "https://www.deshrupantor.com/737049/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C-%E0%A6%AF%E0%A6%BE-%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "canonicalUrl": "https://deshrupantor.com/737049/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C-%E0%A6%AF%E0%A6%BE-%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "guid": "https://www.deshrupantor.com/737049/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C-%E0%A6%AF%E0%A6%BE-%E0%A6%AF%E0%A6%BE-%E0%A6%A6%E0%A7%87%E0%A6%96%E0%A6%BE-%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "publishedAt": "2026-11-22T23:00:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "a30f51470fbd8f21e99c0f348de0c58c666cf1785c0f19faa69dc081c80822ce"
+    },
+    {
+      "id": "dccead19e2b2f8c788239fec",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cmde1dy82lepo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo#1",
+      "publishedAt": "2026-11-22T22:49:10Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "a7ed28c6d922871d08b2bd49d7a79f479fc24637b19689090362e73b848c5f66"
+    },
+    {
+      "id": "2814d61f62c78951b92af8ce",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "এইচএসসির উত্তরপত্র পুনঃনিরীক্ষণের ফল আজ",
+      "description": "চলতি বছরের উচ্চমাধ্যমিক সার্টিফিকেট (এইচএসসি) ও সমমান পরীক্ষার উত্তরপত্র পুনঃনিরীক্ষণের ফল সোমবার (২৩ নভেম্বর) প্রকাশ করা হবে। বিকেল ৩টায় শিক্ষা বোর্ডগুলোর ওয…",
+      "url": "https://www.ittefaq.com.bd/822512/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%83%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%86%E0%A6%9C",
+      "canonicalUrl": "https://ittefaq.com.bd/822512/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%83%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%86%E0%A6%9C",
+      "guid": "https://www.ittefaq.com.bd/822512/%E0%A6%8F%E0%A6%87%E0%A6%9A%E0%A6%8F%E0%A6%B8%E0%A6%B8%E0%A6%BF%E0%A6%B0-%E0%A6%89%E0%A6%A4%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%AA%E0%A6%A4%E0%A7%8D%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%A8%E0%A6%83%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%AB%E0%A6%B2-%E0%A6%86%E0%A6%9C",
+      "publishedAt": "2026-11-22T22:46:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "education",
+      "categoryName": "শিক্ষা",
+      "isBreaking": false,
+      "contentHash": "0a45ec0976563fde82e7583845f977facf5e5e7dc03f36af379dc84c8c4f9141"
+    },
     {
       "id": "e9e706b4d35764b0e5827310",
       "sourceId": "bbcnews",
@@ -49,6 +177,22 @@
       "categoryName": "আন্তর্জাতিক",
       "isBreaking": false,
       "contentHash": "79ef78c68eb80104bf0a53395310ca4f274f0ee5b30d13fd6435dce42f2775dd"
+    },
+    {
+      "id": "c0fe2f2ba210720340d34b29",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Boy, 7, pulled from rubble hours after Russian strike in Ukraine, rescuers say",
+      "description": "Six people are dead, with rescue efforts ongoing to find those still missing from the residential building.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cqdr15l32d3go?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#1",
+      "publishedAt": "2026-11-22T22:25:00Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "7c0794bc116204fa480a9c789e1d77e51d9a134ee34429f13d538af8d14def70"
     },
     {
       "id": "180cc56c901c09a793ca6c53",
@@ -2211,6 +2355,22 @@
       "contentHash": "0b64482ae0fd42eacadc3745f43992e7381ad72c3e931ea458fcaacb0654d9d5"
     },
     {
+      "id": "3392941de8f24f90644cf7e3",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+      "description": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+      "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cvglrx764gdxo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo#4",
+      "publishedAt": "2026-11-22T18:29:46Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "e883312feca4183aa10d7f6dc1f43d529fd3fc0fd30aae7fc57f0073a5acda6c"
+    },
+    {
       "id": "a7bbb4a67c6701039de48c8c",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
@@ -4199,7 +4359,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস",
-      "description": "ভোলার ভোলা নর্থ গ্যাসক্ষেত্রের নতুন খনন করা ভোলা নর্থ-৩ কূপের প্রথম স্তরের পর এবার দ্বিতীয় স্তরেও গ্যাসের সন্ধান পাওয়া গেছে...",
+      "description": "ভোলায় নতুন কূপের দ্বিতীয় স্তরেও মিলেছে গ্যাস",
       "url": "https://www.jagonews24.com/country/news/1182500",
       "canonicalUrl": "https://jagonews24.com/country/news/1182500",
       "guid": "https://www.jagonews24.com/country/news/1182500",
@@ -4208,7 +4368,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "092ba6abd15f31c8ed06657abcb642e8166b51f1e7feb740b3ce3d2675c3636f"
+      "contentHash": "e016d61a4230f3a0d885a02489a7dfbf8db4e479c84673a5895520db5fc27ff7"
     },
     {
       "id": "84a6c8784b97a8fff7f088a1",
@@ -42170,7 +42330,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 312
+      "count": 314
     },
     {
       "id": "jugantor",
@@ -42218,7 +42378,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 291
+      "count": 293
     },
     {
       "id": "tbs",
@@ -42242,7 +42402,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 442
+      "count": 443
     },
     {
       "id": "banglanews24",
@@ -42290,7 +42450,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 333
+      "count": 334
     },
     {
       "id": "ajkerpatrika",
@@ -42394,7 +42554,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 82
+      "count": 86
     },
     {
       "id": "bbcbangla",
