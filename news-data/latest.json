@@ -1,7 +1,119 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T21:42:14.848635Z",
+  "generatedAt": "2026-11-22T22:42:58.805516Z",
   "articles": [
+    {
+      "id": "e9e706b4d35764b0e5827310",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
+      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/videos/cre3dvd1k9y1o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o#1",
+      "publishedAt": "2026-11-22T22:37:43Z",
+      "firstSeenAt": "2026-11-22T18:45:09.998871Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "71f879b881f42c1ac89fd60555c489f64e54b09324c24246625952a039f852ae"
+    },
+    {
+      "id": "6e31893f7a5c819a35bd5ffa",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "খুলনায় অস্ত্রসহ সন্ত্রাসী গ্রেফতার, এলাকাবাসীর হাতে মারধরের শিকার",
+      "description": "কামরান শেখ নামে এক সন্ত্রাসীকে গ্রেফতার করেছে মহানগর পুলিশ। রবিবার (২২ নভেম্বর) বিকালে টুটপাড়া ফরিদ মোল্লার মোড় থেকে তাকে গ্রেফতার করা হয়। তিনি ওই এলাকার কা…",
+      "url": "https://www.banglatribune.com/country/khulna/982639/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0",
+      "canonicalUrl": "https://banglatribune.com/country/khulna/982639/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0",
+      "guid": "https://www.banglatribune.com/country/khulna/982639/%E0%A6%96%E0%A7%81%E0%A6%B2%E0%A6%A8%E0%A6%BE%E0%A7%9F-%E0%A6%85%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B8%E0%A6%B9-%E0%A6%B8%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%B8%E0%A7%80-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%AB%E0%A6%A4%E0%A6%BE%E0%A6%B0-%E0%A6%8F%E0%A6%B2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0",
+      "publishedAt": "2026-11-22T22:35:00Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "97e18de279aa9d6fc65740107dd9787ffcf123d71663d101aa9a8c2f04019efc"
+    },
+    {
+      "id": "d3a0de8822f31624201ba69b",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "ইরানের বিরুদ্ধে ফের যুদ্ধ শুরুর ইঙ্গিত ট্রাম্পের",
+      "description": "ইরানের সঙ্গে কোনো চুক্তি না হলে দেশটির বিরুদ্ধে আবারও যুদ্ধ শুরু করার দিকে ঝুঁকতে পারেন বলে জানিয়েছেন যুক্তরাষ্ট্রের প্রেসিডেন্ট ডোনাল্ড ট্রাম্প...",
+      "url": "https://www.jagonews24.com/international/news/1182514",
+      "canonicalUrl": "https://jagonews24.com/international/news/1182514",
+      "guid": "https://www.jagonews24.com/international/news/1182514",
+      "publishedAt": "2026-11-22T22:25:45Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "79ef78c68eb80104bf0a53395310ca4f274f0ee5b30d13fd6435dce42f2775dd"
+    },
+    {
+      "id": "180cc56c901c09a793ca6c53",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "টঙ্গীতে বসতবাড়িতে আগুন, শিশুসহ তিনজন দগ্ধ",
+      "description": "গাজীপুরের টঙ্গী পশ্চিম থানাধীন দাঁড়াইল পশ্চিমপাড়া গ্রামে এক বাড়িতে আগুন লাগার ঘটনা ঘটেছে। এ ঘটনায় শিশুসহ তিনজন দগ্ধ হয়েছেন। আশঙ্কাজনক অবস্থায় তাদের ঢাকা…",
+      "url": "https://www.ittefaq.com.bd/822513/%E0%A6%9F%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%9C%E0%A6%A8-%E0%A6%A6%E0%A6%97%E0%A7%8D%E0%A6%A7",
+      "canonicalUrl": "https://ittefaq.com.bd/822513/%E0%A6%9F%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%9C%E0%A6%A8-%E0%A6%A6%E0%A6%97%E0%A7%8D%E0%A6%A7",
+      "guid": "https://www.ittefaq.com.bd/822513/%E0%A6%9F%E0%A6%99%E0%A7%8D%E0%A6%97%E0%A7%80%E0%A6%A4%E0%A7%87-%E0%A6%AC%E0%A6%B8%E0%A6%A4%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%97%E0%A7%81%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81%E0%A6%B8%E0%A6%B9-%E0%A6%A4%E0%A6%BF%E0%A6%A8%E0%A6%9C%E0%A6%A8-%E0%A6%A6%E0%A6%97%E0%A7%8D%E0%A6%A7",
+      "publishedAt": "2026-11-22T22:14:00Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "3f100bb06234c223504157de930f7c16996a7fa0a2b2dd81610a638bb70820e3"
+    },
+    {
+      "id": "681806aae3678f7b1818f1a9",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "প্রধান শিক্ষকের ওপর অভিভাবকের নির্যাতন, ক্যাথলিক শিক্ষা বোর্ডের নিন্দা",
+      "description": "যশোরের ঝিকরগাছায় সেন্ট লুইস মাধ্যমিক বিদ্যালয়ের প্রধান শিক্ষকের ওপর অভিভাবকের শারীরিক নির্যাতনের ঘটনায় তীব্র নিন্দা ও উদ্বেগ জানিয়েছে বাংলাদেশ ক্যাথলিক শিক…",
+      "url": "https://www.banglatribune.com/educations/982638/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A5%E0%A6%B2%E0%A6%BF%E0%A6%95",
+      "canonicalUrl": "https://banglatribune.com/educations/982638/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A5%E0%A6%B2%E0%A6%BF%E0%A6%95",
+      "guid": "https://www.banglatribune.com/educations/982638/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A7%E0%A6%BE%E0%A6%A8-%E0%A6%B6%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%A8%E0%A6%BF%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A4%E0%A6%A8-%E0%A6%95%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%A5%E0%A6%B2%E0%A6%BF%E0%A6%95",
+      "publishedAt": "2026-11-22T22:08:00Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "education",
+      "categoryName": "শিক্ষা",
+      "isBreaking": false,
+      "contentHash": "ccf94f78a1767cbd678a37040936cf9fd01ef68ad9f201adf53af8e3cca231be"
+    },
+    {
+      "id": "5ea7f4e236ecffc6b2a5b9d2",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "রঙ মেশানো শুঁটকি-পচা মাংস বিক্রি, তিন প্রতিষ্ঠানকে জরিমানা",
+      "description": "চাঁদপুরে রঙ মেশানো শুঁটকি মাছ বিক্রি, বিক্রির উদ্দেশ্যে বাসি-পচা মাংস মজুত রাখার দায়ে তিন প্রতিষ্ঠানকে মোট ২০ হাজার টাকা জরিমানা করেছে জাতীয় ভোক্তা অধিকার সং…",
+      "url": "https://www.ittefaq.com.bd/822511/%E0%A6%B0%E0%A6%99-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%9A%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87",
+      "canonicalUrl": "https://ittefaq.com.bd/822511/%E0%A6%B0%E0%A6%99-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%9A%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87",
+      "guid": "https://www.ittefaq.com.bd/822511/%E0%A6%B0%E0%A6%99-%E0%A6%AE%E0%A7%87%E0%A6%B6%E0%A6%BE%E0%A6%A8%E0%A7%8B-%E0%A6%B6%E0%A7%81%E0%A6%81%E0%A6%9F%E0%A6%95%E0%A6%BF-%E0%A6%AA%E0%A6%9A%E0%A6%BE-%E0%A6%AE%E0%A6%BE%E0%A6%82%E0%A6%B8-%E0%A6%AC%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%A8%E0%A6%95%E0%A7%87",
+      "publishedAt": "2026-11-22T21:45:00Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "f315ff952cb14e064517e9aa58c923e1ab4a9c65b1b8f9eb6fa6d4ced1515fdd"
+    },
+    {
+      "id": "c33dc8152fb2a1ecec48947f",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Fifa to confirm UK as host for 2035 Women's World Cup",
+      "description": "Fifa is set to confirm on Monday that a first football World Cup will be hosted in the United Kingdom since 1966.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/articles/cx30g83716lzo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cx30g83716lzo#8",
+      "publishedAt": "2026-11-22T21:44:37Z",
+      "firstSeenAt": "2026-11-22T22:42:58.805516Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "61ff3a64abf233e6b14b365c08a20d96bb890c0bac899837a01ecc978cd3bd4e"
+    },
     {
       "id": "b7c52c83c844f86087009a31",
       "sourceId": "banglatribune",
@@ -2659,22 +2771,6 @@
       "contentHash": "5debfc6a57ce1217232ad33c30eda401a031544ed1a98c11dc116f2b3cd151d4"
     },
     {
-      "id": "e9e706b4d35764b0e5827310",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "description": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "canonicalUrl": "https://bbc.co.uk/news/videos/cre3dvd1k9y1o?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o#1",
-      "publishedAt": "2026-11-22T17:57:43Z",
-      "firstSeenAt": "2026-11-22T18:45:09.998871Z",
-      "category": "international",
-      "categoryName": "আন্তর্জাতিক",
-      "isBreaking": false,
-      "contentHash": "71f879b881f42c1ac89fd60555c489f64e54b09324c24246625952a039f852ae"
-    },
-    {
       "id": "95918b92f0905bb95d6668ab",
       "sourceId": "bbcnews",
       "sourceName": "BBC News",
@@ -4231,7 +4327,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "ওভারটেক করতে গিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালক নিহত",
-      "description": "ঢাকা-সিলেট মহাসড়কের সোনারগাঁয়ে ওভারটেক করতে গিয়ে নিয়ন্ত্রণ হারিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালকের মৃত্যু হয়েছে...",
+      "description": "ওভারটেক করতে গিয়ে কাভার্ডভ্যান উল্টে ট্রাকচালক নিহত",
       "url": "https://www.jagonews24.com/country/news/1182499",
       "canonicalUrl": "https://jagonews24.com/country/news/1182499",
       "guid": "https://www.jagonews24.com/country/news/1182499",
@@ -4240,7 +4336,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "e8e91e64531b95fd488ac3a393d9511f07f08c20dad4abfb876e10b39e37e9e1"
+      "contentHash": "93d230b00ccb2433aa7787ee931a60071b7fa14f29207ddce1ae70b9f9bbfcda"
     },
     {
       "id": "09f8b25ceded6fc299b75d06",
@@ -42074,7 +42170,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 310
+      "count": 312
     },
     {
       "id": "jugantor",
@@ -42122,7 +42218,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 289
+      "count": 291
     },
     {
       "id": "tbs",
@@ -42146,7 +42242,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 441
+      "count": 442
     },
     {
       "id": "banglanews24",
@@ -42298,7 +42394,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 81
+      "count": 82
     },
     {
       "id": "bbcbangla",
