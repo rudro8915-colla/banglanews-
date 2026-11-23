@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T15:00:39.321084Z",
+  "generatedAt": "2026-11-23T16:04:08.246408Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -8,7 +8,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 441
+      "count": 435
     },
     {
       "id": "dailystar",
@@ -64,7 +64,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 182
+      "count": 178
     },
     {
       "id": "banglatribune",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 345
+      "count": 343
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 168
+      "count": 171
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 655
+      "count": 654
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 350
+      "count": 354
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 362
+      "count": 365
     },
     {
       "id": "kalbela",
@@ -216,7 +216,7 @@
       "url": "https://dainikpurbokone.net",
       "status": "ok",
       "reason": "",
-      "count": 7
+      "count": 8
     },
     {
       "id": "azadi",
@@ -224,7 +224,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 49
+      "count": 48
     },
     {
       "id": "sylheterdak",
@@ -232,7 +232,7 @@
       "url": "https://sylheterdak.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 3
+      "count": 4
     },
     {
       "id": "sangbad",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 84
+      "count": 86
     },
     {
       "id": "bbcbangla",
