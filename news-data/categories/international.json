@@ -2,9 +2,11 @@
   "schemaVersion": 1,
   "category": "international",
   "label": "আন্তর্জাতিক",
-  "generatedAt": "2026-11-23T20:51:53.762891Z",
+  "generatedAt": "2026-11-23T21:52:29.511470Z",
   "articleIds": [
+    "456f3d595323e371637064cc",
     "690f645501d1fb67a0a075ff",
+    "61dcf07937f1574185ce0cdd",
     "e416ce04bce539c21f0ebb7f",
     "05a9a156b4aa72f1899f037e",
     "7170df0749eefda597177e12",
@@ -245,7 +247,6 @@
     "83a7545a60dd547740e829fa",
     "b5e1cdd1da70ce0c38bc3fa1",
     "4874f30e26dd5b9ad58b0945",
-    "08aa70a5b9b98af49a28c76b",
-    "9139bde31280aba384f091a4"
+    "08aa70a5b9b98af49a28c76b"
   ]
 }
