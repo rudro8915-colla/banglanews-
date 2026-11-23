@@ -1,7 +1,151 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-23T21:52:29.511470Z",
+  "generatedAt": "2026-11-23T22:53:14.252969Z",
   "articles": [
+    {
+      "id": "466d9e1aaf2b9ab55676af57",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "পিরোজপুরে সেতুর ওপর দুই মোটরসাইকেলে ট্রলির ধাক্কা, নিহত ৩",
+      "description": "পিরোজপুরের কঁচা নদীর ওপর নির্মিত অষ্টম বাংলাদেশ-চীন মৈত্রী সেতুতে দুটি মোটরসাইকেলের দুর্ঘটনায় তিন যুবক নিহত হয়েছেন। এ ঘটনায় আহত হয়েছেন আরও দুজন। তাদের একজন…",
+      "url": "https://www.banglatribune.com/country/barishal/982849/%E0%A6%AA%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE",
+      "canonicalUrl": "https://banglatribune.com/country/barishal/982849/%E0%A6%AA%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE",
+      "guid": "https://www.banglatribune.com/country/barishal/982849/%E0%A6%AA%E0%A6%BF%E0%A6%B0%E0%A7%8B%E0%A6%9C%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%87-%E0%A6%B8%E0%A7%87%E0%A6%A4%E0%A7%81%E0%A6%B0-%E0%A6%93%E0%A6%AA%E0%A6%B0-%E0%A6%A6%E0%A7%81%E0%A6%87-%E0%A6%AE%E0%A7%8B%E0%A6%9F%E0%A6%B0%E0%A6%B8%E0%A6%BE%E0%A6%87%E0%A6%95%E0%A7%87%E0%A6%B2%E0%A7%87-%E0%A6%9F%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%A7%E0%A6%BE%E0%A6%95%E0%A7%8D%E0%A6%95%E0%A6%BE",
+      "publishedAt": "2026-11-23T22:52:36Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "77d21d8b84fd5d8a258d598323fc6f7afe3159ca7d690c11dee48d5f5009d277"
+    },
+    {
+      "id": "0f1aa5883d2d35a9d78f0bb5",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "description": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cv98xpg5dg5zo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo#1",
+      "publishedAt": "2026-11-23T22:45:51Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "eea7dd0187fe7d2888e89cc86f75aeb9191459d4d4eb35fa8add79b2a3c2b0b5"
+    },
+    {
+      "id": "203bd3aa3def5df9d243fd60",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+      "description": "Everton captain James Tarkowski was sent off for the first time in his Premier League career in Monday's 4-0 loss at Brentford - but was it a harsh decision?",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/articles/cmqx5eynvpqno?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/cmqx5eynvpqno#8",
+      "publishedAt": "2026-11-23T22:43:39Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "496593ddde17166b9da10fc161b022cb4113e3cad4d719df30e1312239f04311"
+    },
+    {
+      "id": "755a07c068b9fd84b6d681ee",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Janelt scores stunner as Brentford beat 10-man Everton",
+      "description": "Watch highlights as Brentford earn a comfortable 3-0 win against 10-man Everton in the Premier League, including a great goal by Vitaly Janelt.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c5gm3jlw7l7xo#8",
+      "publishedAt": "2026-11-23T22:31:27Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "92b8ec340ce0db259fed721047c8a72737f6dc9781d7460b848370a9d67fd6a7"
+    },
+    {
+      "id": "6432ba2b5724fde04f3b4683",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "নির্বাচনের আগে দেওয়া প্রতিশ্রুতি আমৃত্যু রক্ষা করবো: ডেপুটি স্পিকার",
+      "description": "নেত্রকোনার দুর্গাপুর ও কলমাকান্দাকে উন্নয়ন, শিক্ষা, শান্তি ও মানবিকতার আদর্শ জনপদ হিসেবে গড়ে তুলতে সবাইকে ঐক্যবদ্ধভাবে কাজ করার আহ্বান জানিয়েছেন জাতীয় সংসদ…",
+      "url": "https://www.jagonews24.com/country/news/1182922",
+      "canonicalUrl": "https://jagonews24.com/country/news/1182922",
+      "guid": "https://www.jagonews24.com/country/news/1182922",
+      "publishedAt": "2026-11-23T22:21:05Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "politics",
+      "categoryName": "রাজনীতি",
+      "isBreaking": false,
+      "contentHash": "59ec0a9c925fbfaf2fdf34ffb72a9dc4ab330f93811b4953edcb9d8b22e78827"
+    },
+    {
+      "id": "adcedc5a0a4b4d6a927436a0",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "হাই তুললে চোখে পানি আসে কেন, একজনের হাই অন্যজনের মধ্যে ছড়ায় কীভাবে",
+      "description": "কাউকে হাই তুলতে দেখলে, হাই তোলার শব্দ শুনলে কিংবা এ নিয়ে ভাবলেও অনেক সময় নিজেরও হাই ওঠে। পাশাপাশি হাই তোলার সময় অনেকের চোখে পানি জমে যায়। একজনের হাই অন্যজন…",
+      "url": "https://www.ittefaq.com.bd/822697/%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87-%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "canonicalUrl": "https://ittefaq.com.bd/822697/%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87-%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "guid": "https://www.ittefaq.com.bd/822697/%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%A4%E0%A7%81%E0%A6%B2%E0%A6%B2%E0%A7%87-%E0%A6%9A%E0%A7%8B%E0%A6%96%E0%A7%87-%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%86%E0%A6%B8%E0%A7%87-%E0%A6%95%E0%A7%87%E0%A6%A8-%E0%A6%8F%E0%A6%95%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%B9%E0%A6%BE%E0%A6%87-%E0%A6%85%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%9C%E0%A6%A8%E0%A7%87%E0%A6%B0",
+      "publishedAt": "2026-11-23T22:15:00Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "f1cf3a4705eb5170e399dc02a001bab2d16d6a43cb8f26706fe9f96918c52d32"
+    },
+    {
+      "id": "784fcfbb691a41782701136e",
+      "sourceId": "deshrupantor",
+      "sourceName": "দেশ রূপান্তর",
+      "title": "আরও তিন দেশে চালু হচ্ছে এনআইডি সেবা",
+      "description": "বর্তমানে বিশ্বের ১৭টি দেশে সংশ্লিষ্ট বাংলাদেশ দূতাবাসের মাধ্যমে প্রবাসীদের এনআইডি কার্যক্রম চালু রয়েছে। নতুন তিন দেশে সেবা চালু হলে এ সংখ্যা বেড়ে ২০ হবে। বিস…",
+      "url": "https://www.deshrupantor.com/737417/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%86%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE",
+      "canonicalUrl": "https://deshrupantor.com/737417/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%86%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE",
+      "guid": "https://www.deshrupantor.com/737417/%E0%A6%86%E0%A6%B0%E0%A6%93-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%A6%E0%A7%87%E0%A6%B6%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%A8%E0%A6%86%E0%A6%87%E0%A6%A1%E0%A6%BF-%E0%A6%B8%E0%A7%87%E0%A6%AC%E0%A6%BE",
+      "publishedAt": "2026-11-23T22:08:48Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "politics",
+      "categoryName": "রাজনীতি",
+      "isBreaking": false,
+      "contentHash": "11fff798c250d713a5de6b27e845b32705143753a8ae63dd2f92da058b3c57fa"
+    },
+    {
+      "id": "2c3128eaa8713f8ead0ad47d",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "'Life is not infinite': Catherine talks about 'mortality' in new documentary clip",
+      "description": "The Princess of Wales talks about her cancer journey in a new clip from the upcoming BBC documentary, Heal.",
+      "url": "https://www.bbc.co.uk/news/videos/c920x1534e31o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/videos/c920x1534e31o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/videos/c920x1534e31o#1",
+      "publishedAt": "2026-11-23T22:01:09Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "e611c23bf134f68f275e5daedba8b93845b1263514febcae66ca76cdc93d7ec0"
+    },
+    {
+      "id": "d4589dba5169d19864fbd39e",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "মঠবাড়িয়ায় সম্ভাব্য দুই চেয়ারম্যান প্রার্থীর সমর্থকদের সংঘর্ষ, আহত ৬",
+      "description": "পিরোজপুরের মঠবাড়িয়া উপজেলায় ইউনিয়ন পরিষদ নির্বাচনের দুই চেয়ারম্যান প্রার্থীর সমর্থকদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে উভয় পক্ষের অন্তত ছয়জন আহত হয়েছেন.…",
+      "url": "https://www.jagonews24.com/country/news/1182921",
+      "canonicalUrl": "https://jagonews24.com/country/news/1182921",
+      "guid": "https://www.jagonews24.com/country/news/1182921",
+      "publishedAt": "2026-11-23T21:56:49Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "e74057ed35507b64f7c11aaa88d3a7c2152e0a665878d2c1c686bf72a89deaa2"
+    },
     {
       "id": "cf68cc8e699c24e4bb742253",
       "sourceId": "banglatribune",
@@ -49,6 +193,22 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "a0868b9284679952c41b1eb9f8484a160290e21df61420ac4e9d09987f0878d8"
+    },
+    {
+      "id": "12105f90fa54635f33952a07",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+      "description": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+      "url": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cm3eg502nxw2o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o#1",
+      "publishedAt": "2026-11-23T21:24:47Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "d5017ee32b362ce2313990b5066b47f8f4c448effcc456a9e9cb50653e239750"
     },
     {
       "id": "4628204ee6347207dee3c152",
@@ -138,7 +298,7 @@
       "description": "The UK is joined by several other nations in recognising an ICJ ruling that Myanmar carried out genocide.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo?at_medium=RSS&at_campaign=rss",
       "canonicalUrl": "https://bbc.co.uk/news/articles/c6wy4ng1rznxo?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo#1",
+      "guid": "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo#4",
       "publishedAt": "2026-11-23T21:03:34Z",
       "firstSeenAt": "2026-11-23T21:52:29.511470Z",
       "category": "international",
@@ -1233,6 +1393,22 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "2590a8de9d7534d1cf498ebee5b0ae05ae07d6062c85220b318dd31847cc0e0c"
+    },
+    {
+      "id": "04876cc644a7f7b4b90855a2",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Trump says he 'convinced' Nvidia to reinstate Jensen Huang",
+      "description": "The US president personally intervened to speak to members of Nvidia's board of directors.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cq5y1k8ez407o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o#1",
+      "publishedAt": "2026-11-23T19:14:44Z",
+      "firstSeenAt": "2026-11-23T22:53:14.252969Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "5301424aa2813d0c2c02da9db19c6bbdb7fcf14b756295e7f14789a79eababc6"
     },
     {
       "id": "8ca564d56896175a578825ec",
@@ -2983,7 +3159,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "পোশাকশ্রমিকদের নতুন মজুরি নির্ধারণে মঙ্গলবার বসছে চতুর্থ সভা",
-      "description": "তৈরি পোশাকশিল্পে কর্মরত সব শ্রেণির শ্রমিক ও কর্মচারীর নিম্নতম মজুরি নির্ধারণে সুপারিশ প্রণয়নের লক্ষ্যে মঙ্গলবার (২৪ নভেম্বর) চতুর্থ সভায় বসছে নিম্নতম মজুরি ব…",
+      "description": "পোশাকশ্রমিকদের নতুন মজুরি নির্ধারণে মঙ্গলবার বসছে চতুর্থ সভা",
       "url": "https://www.jagonews24.com/economy/news/1182907",
       "canonicalUrl": "https://jagonews24.com/economy/news/1182907",
       "guid": "https://www.jagonews24.com/economy/news/1182907",
@@ -2992,7 +3168,7 @@
       "category": "economy",
       "categoryName": "অর্থনীতি",
       "isBreaking": false,
-      "contentHash": "39e4a530fc7ce32b8cf6f999512b96953e52f4f3cbb19da53c792b97c3803074"
+      "contentHash": "d206d46242d3a98f54dfa4f7d5eee61836253872a9bf94742ab34db5299387db"
     },
     {
       "id": "1620327f9a8abb3ffe92d148",
@@ -3143,7 +3319,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "ভালুকায় স্বামীকে বাইরে ডেকে গৃহবধূকে ধর্ষণের অভিযোগ, গ্রেফতার ৩",
-      "description": "ময়মনসিংহের ভালুকায় গভীর রাতে স্বামীকে কৌশলে ঘরের বাইরে নিয়ে গিয়ে স্ত্রীকে ধর্ষণের অভিযোগ উঠেছে বাড়িওয়ালার ছেলে ও তার দুই সহযোগীর বিরুদ্ধে...",
+      "description": "ভালুকায় স্বামীকে বাইরে ডেকে গৃহবধূকে ধর্ষণের অভিযোগ, গ্রেফতার ৩",
       "url": "https://www.jagonews24.com/country/news/1182906",
       "canonicalUrl": "https://jagonews24.com/country/news/1182906",
       "guid": "https://www.jagonews24.com/country/news/1182906",
@@ -3152,7 +3328,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "41f62c5fc0e527602a9035f5f592d9d234b5781b04183da7f91a68b3e77067bd"
+      "contentHash": "bd5105ffc5fe8f0384f998a98394bb5ca638ecbcab6dd2c5ca1dae2a3b2abd3f"
     },
     {
       "id": "4c8f72b9755a659d5ad70ff9",
@@ -6906,7 +7082,7 @@
       "description": "Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.",
       "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
       "canonicalUrl": "https://bbc.co.uk/news/videos/cmz6q3001pw6o?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o#1",
+      "guid": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o#2",
       "publishedAt": "2026-11-23T14:32:12Z",
       "firstSeenAt": "2026-11-23T16:04:08.246408Z",
       "category": "international",
@@ -47825,182 +48001,6 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "f6710d17d169e4bd17864111a73bad4d11063a33c8d7360664f2251eb6f4cfec"
-    },
-    {
-      "id": "8a6ac6cb7e2e6ccd6469b50a",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "বম্বে সুইটসে নিয়োগ, ২২ বছর হলেই আবেদন",
-      "description": "বম্বে সুইটসে নিয়োগ, ২২ বছর হলেই আবেদন",
-      "url": "https://www.jagonews24.com/jago-jobs/news/1182266",
-      "canonicalUrl": "https://jagonews24.com/jago-jobs/news/1182266",
-      "guid": "https://www.jagonews24.com/jago-jobs/news/1182266",
-      "publishedAt": "2026-11-22T08:17:36Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "0f4ccb1238311ba8d2158a81eddd9647c2a0dc1884e07db1198a5f64365738f2"
-    },
-    {
-      "id": "08aa70a5b9b98af49a28c76b",
-      "sourceId": "prothomalo",
-      "sourceName": "প্রথম আলো",
-      "title": "সৌদি আরবকে কাঁপিয়ে দেওয়া হুতিদের যুদ্ধ চলে কোন গোপন অর্থের জোরে",
-      "description": "সামরিক শক্তিতে সৌদি আরব মধ্যপ্রাচ্যের সবচেয়ে শক্তিশালী দেশ। একের পর এক ক্ষেপণাস্ত্র ও ড্রোন হামলা চালিয়ে সেই দেশকেই নাজেহাল করে ফেলেছে ইয়েমেনের হুতিরা।",
-      "url": "https://www.prothomalo.com/world/middle-east/btk6ilvidy",
-      "canonicalUrl": "https://prothomalo.com/world/middle-east/btk6ilvidy",
-      "guid": "f5cfcccb-c2c1-4916-a39f-d8da54241f3a",
-      "publishedAt": "2026-11-22T08:17:06Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "international",
-      "categoryName": "আন্তর্জাতিক",
-      "isBreaking": false,
-      "contentHash": "2ff1527fb79865fb6841857209a24c47c20769dcb97679d50590c7d7f2d5947a"
-    },
-    {
-      "id": "6aaef5fe8d010f000a8500d5",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "৫ বিভাগে বৃষ্টির আভাস",
-      "description": "৫ বিভাগে বৃষ্টির আভাস",
-      "url": "https://www.jagonews24.com/national/news/1182265",
-      "canonicalUrl": "https://jagonews24.com/national/news/1182265",
-      "guid": "https://www.jagonews24.com/national/news/1182265",
-      "publishedAt": "2026-11-22T08:16:53Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "a61c26da0841a2fe3f3362c0e36aca2863a0397a606c6e5e937bcfeed0422427"
-    },
-    {
-      "id": "be9f6f7e6f680be169995bc0",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "কেন্দ্রীয় কারাগারে অসুস্থ কয়েদির ঢামেকে মৃত্যু",
-      "description": "কেন্দ্রীয় কারাগারে অসুস্থ কয়েদির ঢামেকে মৃত্যু",
-      "url": "https://www.jagonews24.com/national/news/1182264",
-      "canonicalUrl": "https://jagonews24.com/national/news/1182264",
-      "guid": "https://www.jagonews24.com/national/news/1182264",
-      "publishedAt": "2026-11-22T08:14:52Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "330981533de4358e9133f592696a8eff9e5c20ee17a04afa22239be9c527c025"
-    },
-    {
-      "id": "0adbe3aec86cf56ed33baa1c",
-      "sourceId": "ittefaq",
-      "sourceName": "ইত্তেফাক",
-      "title": "রাতের আকাশে এখন তারার চেয়ে বেশি স্যাটেলাইট, বলছে গবেষণা",
-      "description": "শহরের রাতের আকাশে খালি চোখে দেখা যায় এমন তারার সংখ্যাকে ছাড়িয়ে গেছে দৃশ্যমান কৃত্রিম উপগ্রহ বা স্যাটেলাইটের সংখ্যা। যুক্তরাজ্যে পরিচালিত এক গবেষণায় এমন তথ্…",
-      "url": "https://www.ittefaq.com.bd/822380/%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%B2%E0%A6%9B%E0%A7%87",
-      "canonicalUrl": "https://ittefaq.com.bd/822380/%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%B2%E0%A6%9B%E0%A7%87",
-      "guid": "https://www.ittefaq.com.bd/822380/%E0%A6%B0%E0%A6%BE%E0%A6%A4%E0%A7%87%E0%A6%B0-%E0%A6%86%E0%A6%95%E0%A6%BE%E0%A6%B6%E0%A7%87-%E0%A6%8F%E0%A6%96%E0%A6%A8-%E0%A6%A4%E0%A6%BE%E0%A6%B0%E0%A6%BE%E0%A6%B0-%E0%A6%9A%E0%A7%87%E0%A7%9F%E0%A7%87-%E0%A6%AC%E0%A7%87%E0%A6%B6%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%9F-%E0%A6%AC%E0%A6%B2%E0%A6%9B%E0%A7%87",
-      "publishedAt": "2026-11-22T08:14:25Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "60565a04019d7a8ee271f88ec8bc7484618505da072b00079938f5614a6ee372"
-    },
-    {
-      "id": "b5911323cfb322088a370acb",
-      "sourceId": "prothomalo",
-      "sourceName": "প্রথম আলো",
-      "title": "গুচ্ছবদ্ধ গোলাপি ফুলের মায়া",
-      "description": "ব্যালেরিনা রোজের সবচেয়ে আকর্ষণীয় বৈশিষ্ট্য হলো এর গুচ্ছবদ্ধ ফুল। প্রতিটি ফুল আকারে ছোট, সরল গড়নের এবং সাধারণত পাঁচটি পাপড়িযুক্ত।",
-      "url": "https://www.prothomalo.com/bangladesh/environment/gfal8zp4p0",
-      "canonicalUrl": "https://prothomalo.com/bangladesh/environment/gfal8zp4p0",
-      "guid": "66ee8c11-1483-48a9-b028-2e6ed0fa6b07",
-      "publishedAt": "2026-11-22T08:14:16Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "ab1b4333982cd2e483200cdb1504e4d08777c91655e5be99b926c65cb96e32e0"
-    },
-    {
-      "id": "acf70ef92ef9859c3eb69dfb",
-      "sourceId": "banglatribune",
-      "sourceName": "বাংলা ট্রিবিউন",
-      "title": "এআই দিয়ে পরীক্ষায় জালিয়াতি, গদি ছাড়লেন দক্ষিণ কোরিয়ার শিক্ষামন্ত্রী",
-      "description": "এআই ব্যবহার করে পরীক্ষায় জালিয়াতির ঘটনায় জনরোষের মুখে পদত্যাগ করেছেন দক্ষিণ কোরিয়ার শিক্ষামন্ত্রী চোই কিয়ো-জিন। রবিবার তার পদত্যাগপত্র গ্রহণ করেছেন প্রেসি…",
-      "url": "https://www.banglatribune.com/foreign/asia/982499/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%A6%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3",
-      "canonicalUrl": "https://banglatribune.com/foreign/asia/982499/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%A6%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3",
-      "guid": "https://www.banglatribune.com/foreign/asia/982499/%E0%A6%8F%E0%A6%86%E0%A6%87-%E0%A6%A6%E0%A6%BF%E0%A7%9F%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A7%80%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BE%E0%A7%9F-%E0%A6%9C%E0%A6%BE%E0%A6%B2%E0%A6%BF%E0%A7%9F%E0%A6%BE%E0%A6%A4%E0%A6%BF-%E0%A6%97%E0%A6%A6%E0%A6%BF-%E0%A6%9B%E0%A6%BE%E0%A7%9C%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%A6%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%A3",
-      "publishedAt": "2026-11-22T08:13:39Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "education",
-      "categoryName": "শিক্ষা",
-      "isBreaking": false,
-      "contentHash": "daac8e5374950f6abb9c784e4ec3d857e32e41ab95fbf57fb4b784c7e8823555"
-    },
-    {
-      "id": "ff9e7db683053d204ac09ae6",
-      "sourceId": "banglatribune",
-      "sourceName": "বাংলা ট্রিবিউন",
-      "title": "গোপালগঞ্জে পরিস্থিতি স্বাভাবিক, শহরজুড়ে বিজিবি-আনসারের টহল",
-      "description": "লকডাউন-পরবর্তী সময়ে গোপালগঞ্জে জনজীবন স্বাভাবিক হতে শুরু করেছে। রবিবার (২২ নভেম্বর) সকাল থেকে জেলা শহরে যান চলাচল স্বাভাবিক রয়েছে। খুলেছে দোকানপাট ও বিপণিবিত…",
-      "url": "https://www.banglatribune.com/country/dhaka/982498/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87",
-      "canonicalUrl": "https://banglatribune.com/country/dhaka/982498/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87",
-      "guid": "https://www.banglatribune.com/country/dhaka/982498/%E0%A6%97%E0%A7%8B%E0%A6%AA%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%9E%E0%A7%8D%E0%A6%9C%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BF%E0%A6%A4%E0%A6%BF-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%BE%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%95-%E0%A6%B6%E0%A6%B9%E0%A6%B0%E0%A6%9C%E0%A7%81%E0%A7%9C%E0%A7%87",
-      "publishedAt": "2026-11-22T08:12:45Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "ac7927801dd2820897985792fd1c2ffb94ae3c22900877356b049a9cfe698003"
-    },
-    {
-      "id": "028f57bd1ae9a37cd4e84487",
-      "sourceId": "ittefaq",
-      "sourceName": "ইত্তেফাক",
-      "title": "পাকিস্তানের কাছে হারের কারণ ড্রেসিংরুমের তথ্য ফাঁস নয়: ক্রীড়া প্রতিমন্ত্রী",
-      "description": "সদ্য সমাপ্ত সাফ চ্যাম্পিয়নশিপের সেমিফাইনালে পাকিস্তানের কাছে বাংলাদেশের হারের পেছনে ড্রেসিংরুমের তথ্য ফাঁসের কোনো ভূমিকা ছিল না বলে মনে করেন যুব ও ক্রীড়া প্র…",
-      "url": "https://www.ittefaq.com.bd/822379/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8",
-      "canonicalUrl": "https://ittefaq.com.bd/822379/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8",
-      "guid": "https://www.ittefaq.com.bd/822379/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%9B%E0%A7%87-%E0%A6%B9%E0%A6%BE%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%A3-%E0%A6%A1%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%BF%E0%A6%82%E0%A6%B0%E0%A7%81%E0%A6%AE%E0%A7%87%E0%A6%B0-%E0%A6%A4%E0%A6%A5%E0%A7%8D%E0%A6%AF-%E0%A6%AB%E0%A6%BE%E0%A6%81%E0%A6%B8",
-      "publishedAt": "2026-11-22T08:11:58Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "sports",
-      "categoryName": "খেলা",
-      "isBreaking": false,
-      "contentHash": "4783acb48d666fec7053004d055c77ec104040314eaa91a2cbdadb6eda35e09b"
-    },
-    {
-      "id": "fc4debaa48e547179724af16",
-      "sourceId": "tbs",
-      "sourceName": "The Business Standard",
-      "title": "Tribunal sends Amu, Shajahan Khan and four others to jail in July murder case",
-      "description": "The prosecutor said notices needed to be published in two national dailies to secure Mirza Azam's appearance before the tribunal. He also sought time for the n…",
-      "url": "https://www.tbsnews.net/bangladesh/tribunal-sends-amu-shajahan-khan-and-four-others-jail-july-murder-case-1610316",
-      "canonicalUrl": "https://tbsnews.net/bangladesh/tribunal-sends-amu-shajahan-khan-and-four-others-jail-july-murder-case-1610316",
-      "guid": "https://www.tbsnews.net/bangladesh/tribunal-sends-amu-shajahan-khan-and-four-others-jail-july-murder-case-1610316",
-      "publishedAt": "2026-11-22T08:10:00Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "1a8260f310825c24a14f5f2ca699ccba9f186f2383a26f3bc7568e8bc13f23af"
-    },
-    {
-      "id": "7d2e22831ee86d2de6c2b5fa",
-      "sourceId": "ajkerpatrika",
-      "sourceName": "আজকের পত্রিকা",
-      "title": "ইউনিভার্সিটি ভর্তি পরীক্ষায় এআই ব্যবহার করে জালিয়াতি, শিক্ষামন্ত্রীর পদত্যাগ",
-      "description": "দক্ষিণ কোরিয়ায় বিশ্ববিদ্যালয় ভর্তি পরীক্ষায় কৃত্রিম বুদ্ধিমত্তা (এআই) ব্যবহার করে জালিয়াতির আশঙ্কা ও তা ঠেকাতে সরকারের প্রস্তুতির ঘাটতি নিয়ে ব্যাপক সমালো…",
-      "url": "https://www.ajkerpatrika.com/international/asia/ajp140c807zdc",
-      "canonicalUrl": "https://ajkerpatrika.com/international/asia/ajp140c807zdc",
-      "guid": "https://www.ajkerpatrika.com/international/asia/ajp140c807zdc",
-      "publishedAt": "2026-11-22T08:08:02Z",
-      "firstSeenAt": "2026-11-22T08:50:24.593418Z",
-      "category": "education",
-      "categoryName": "শিক্ষা",
-      "isBreaking": false,
-      "contentHash": "1451aa844d487ebb0a30f20ebe15743cca13a4e6ecdb36ac368def792c0344de"
     }
   ],
   "sources": [
@@ -48010,7 +48010,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 431
+      "count": 429
     },
     {
       "id": "dailystar",
@@ -48026,7 +48026,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 313
+      "count": 312
     },
     {
       "id": "jugantor",
@@ -48074,7 +48074,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 341
+      "count": 340
     },
     {
       "id": "tbs",
@@ -48082,7 +48082,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 167
+      "count": 166
     },
     {
       "id": "bdnews24",
@@ -48098,7 +48098,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 613
+      "count": 612
     },
     {
       "id": "banglanews24",
@@ -48146,7 +48146,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 384
+      "count": 385
     },
     {
       "id": "ajkerpatrika",
@@ -48154,7 +48154,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 370
+      "count": 369
     },
     {
       "id": "kalbela",
@@ -48250,7 +48250,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 92
+      "count": 98
     },
     {
       "id": "bbcbangla",
