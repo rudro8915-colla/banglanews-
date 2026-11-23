@@ -1,7 +1,199 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-22T23:41:53.950916Z",
+  "generatedAt": "2026-11-23T01:04:51.176134Z",
   "articles": [
+    {
+      "id": "5faed23c12a437f23fda91d9",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Australian music legend Molly Meldrum dies aged 83",
+      "description": "The promoter and broadcaster helped define the music tastes of Australians for decades.",
+      "url": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/c3qj57rkd2k1o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o#4",
+      "publishedAt": "2026-11-23T01:03:35Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "2292cceab76974e28d5c647f2002083afa47dc6365754687db5bf821e1744bcf"
+    },
+    {
+      "id": "42fd391308f9f80728409da4",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+      "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cqwy06zrd26lo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#1",
+      "publishedAt": "2026-11-23T00:50:35Z",
+      "firstSeenAt": "2026-11-22T18:45:09.998871Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "33367e16fc4f854d308b6f735e60040a157465bce25e3371f64c8c6e9c8062c8"
+    },
+    {
+      "id": "31645e172f556a4f8e7a87a0",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Can AI spot breast cancer earlier? NHS launches world's largest trial to find out",
+      "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo#1",
+      "publishedAt": "2026-11-23T00:49:22Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "324b3813385b529a55bea39c05952aee899708424b8e84a36450f7a449df5a37"
+    },
+    {
+      "id": "66a0172818f27dd7747593ab",
+      "sourceId": "azadi",
+      "sourceName": "দৈনিক আজাদী",
+      "title": "টেকনাফে বিপুল বিস্ফোরকসহ ১০৩ আইইডির খোলস ও সরঞ্জাম উদ্ধার",
+      "description": "কক্সবাজারের টেকনাফে বিপুল বিস্ফোরক, আইইডি (ইমেপ্রাভাইজড এক্সপ্লোসিভ ডিভাইস) তৈরির সরঞ্জামসহ আগ্নেয়াস্ত্র ও গুলি উদ্ধার করেছে বর্ডার গার্ড বাংলাদেশ (বিজিবি)। এ…",
+      "url": "https://dainikazadi.net/%e0%a6%9f%e0%a7%87%e0%a6%95%e0%a6%a8%e0%a6%be%e0%a6%ab%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%81%e0%a6%b2-%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%ab%e0%a7%8b%e0%a6%b0%e0%a6%95%e0%a6%b8%e0%a6%b9/",
+      "canonicalUrl": "https://dainikazadi.net/%e0%a6%9f%e0%a7%87%e0%a6%95%e0%a6%a8%e0%a6%be%e0%a6%ab%e0%a7%87-%e0%a6%ac%e0%a6%bf%e0%a6%aa%e0%a7%81%e0%a6%b2-%e0%a6%ac%e0%a6%bf%e0%a6%b8%e0%a7%8d%e0%a6%ab%e0%a7%8b%e0%a6%b0%e0%a6%95%e0%a6%b8%e0%a6%b9",
+      "guid": "https://dainikazadi.net/?p=889015",
+      "publishedAt": "2026-11-23T00:46:01Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "6e63fa8ca13ffaa4906f27b2d980c4f2f906a211fc44356f58cdbe2433a6350c"
+    },
+    {
+      "id": "026ca410723353ae74c41fff",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "পাবনায় বিএনপি নেতাকে বহিষ্কার",
+      "description": "পাবনার বেড়া পৌর এলাকায় বিএনপি ও কার্যক্রম নিষিদ্ধ আওয়ামী লীগের সমর্থকদের মধ্যে টানা তিন দিনের সংঘর্ষের রেশ কাটতে না কাটতেই পৌর বিএনপির এক নেতাকে দল থেকে বহি…",
+      "url": "https://www.jagonews24.com/country/news/1182516",
+      "canonicalUrl": "https://jagonews24.com/country/news/1182516",
+      "guid": "https://www.jagonews24.com/country/news/1182516",
+      "publishedAt": "2026-11-23T00:44:04Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "f37f1c3827206e59369c640a9df0af8556c55c16d0911429173e670787441e51"
+    },
+    {
+      "id": "78634c13f2b5d7d35f98d75d",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Will it snow this week? Mild Atlantic air collides with cold air across the UK",
+      "description": "A battle ground is becoming established across the UK, milder air across the southwest and cold arctic air elsewhere",
+      "url": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/weather/articles/c5dj1l21w9pmo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/weather/articles/c5dj1l21w9pmo#1",
+      "publishedAt": "2026-11-23T00:40:36Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "5eb4790b8998747ed07984e057a7b0e8de986ef2c86f28191b993bf5afecbeda"
+    },
+    {
+      "id": "53140be2d6018b7ec8530543",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "২৫০ বছরের পুরোনো চার্লির কুঠিবাড়ি ধ্বংসের দ্বারপ্রান্তে",
+      "description": "আজ থেকে প্রায় আড়াই শ বছর আগে যে বাড়িকে ঘিরে গড়ে উঠেছিল খুলনা মহানগরীর জনপদ, বাণিজ্য আর নগরায়ণের প্রাথমিক ইতিহাস। ভৈরব নদের তীরে দাঁড়িয়ে থাকা জরাজীর্ণ, ভ…",
+      "url": "https://www.ittefaq.com.bd/822506/%E0%A7%A8%E0%A7%AB%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%A0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0",
+      "canonicalUrl": "https://ittefaq.com.bd/822506/%E0%A7%A8%E0%A7%AB%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%A0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0",
+      "guid": "https://www.ittefaq.com.bd/822506/%E0%A7%A8%E0%A7%AB%E0%A7%A6-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AA%E0%A7%81%E0%A6%B0%E0%A7%8B%E0%A6%A8%E0%A7%8B-%E0%A6%9A%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B2%E0%A6%BF%E0%A6%B0-%E0%A6%95%E0%A7%81%E0%A6%A0%E0%A6%BF%E0%A6%AC%E0%A6%BE%E0%A7%9C%E0%A6%BF-%E0%A6%A7%E0%A7%8D%E0%A6%AC%E0%A6%82%E0%A6%B8%E0%A7%87%E0%A6%B0",
+      "publishedAt": "2026-11-23T00:40:00Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "9ce74548c50b613d47a70fb15e3a30257283821257f52e0fe754f4d7b565fe00"
+    },
+    {
+      "id": "a0ebb2daccad14b921195d3d",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "রিমান্ডে পরিচয় বেরিয়েছে ‘বোমারু মামুনের’, যেভাবে পালিয়ে ছিলেন এক জেলায়",
+      "description": "উগ্রবাদী সংগঠন নব্য জেএমবির সদস্য নাজমুল হাসান মামুন ওরফে ‘বোমারু মামুন’ প্রায় দুই মাস ধরে পরিচয় গোপন করে লক্ষ্মীপুরের রায়পুর উপজেলায় আত্মগোপনে ছিলেন। স্থা…",
+      "url": "https://www.banglatribune.com/country/chitagong/982640/%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%B0%E2%80%99-%E0%A6%AF%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "canonicalUrl": "https://banglatribune.com/country/chitagong/982640/%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%B0%E2%80%99-%E0%A6%AF%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "guid": "https://www.banglatribune.com/country/chitagong/982640/%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A7%87-%E0%A6%AA%E0%A6%B0%E0%A6%BF%E0%A6%9A%E0%A7%9F-%E0%A6%AC%E0%A7%87%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9B%E0%A7%87-%E2%80%98%E0%A6%AC%E0%A7%8B%E0%A6%AE%E0%A6%BE%E0%A6%B0%E0%A7%81-%E0%A6%AE%E0%A6%BE%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A7%87%E0%A6%B0%E2%80%99-%E0%A6%AF%E0%A7%87%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A7%87",
+      "publishedAt": "2026-11-23T00:30:00Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "3e00236d10b0422a99bf336cba4fd895c816c97e59b2135cbe945ac3ba3aa53d"
+    },
+    {
+      "id": "876c5836c5eb77430603d16f",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "What is going on with Poundland?",
+      "description": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cm4g10p2r0g9o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o#2",
+      "publishedAt": "2026-11-23T00:22:27Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "5e8132f1dc7ff1f3cdfb9697f8cfbc9c154757b501d909077143b825d6036d40"
+    },
+    {
+      "id": "bd895a5d2e02eb6d80e470f5",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "টিভিতে আজকের খেলা (২৩ নভেম্বর, ২০২৬)",
+      "description": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নে…",
+      "url": "https://www.banglatribune.com/sport/other-sports/982588/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A9-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+      "canonicalUrl": "https://banglatribune.com/sport/other-sports/982588/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A9-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+      "guid": "https://www.banglatribune.com/sport/other-sports/982588/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%A9-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "74ee1a6e37226a684adb5c6814cc1a086c57f5f7a39e8af9aee7adfbf4b3e9d1"
+    },
+    {
+      "id": "04c07d0ecd32938d269c9079",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "সম্ভাবনা আছে; কিন্তু কর্মসংস্থান কোথায়?",
+      "description": "একজন তরুণ বিশ্ববিদ্যালয়ের সর্বোচ্চ ডিগ্রি অর্জন করিয়াও চাকুরি পাইতেছেন না। নিয়োগকর্তা তাহাকে বলিতেছেন, কর্মক্ষেত্রের অভিজ্ঞতা নাই। অথচ অভিজ্ঞতা অর্জনের জন্য…",
+      "url": "https://www.ittefaq.com.bd/822510/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F",
+      "canonicalUrl": "https://ittefaq.com.bd/822510/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F",
+      "guid": "https://www.ittefaq.com.bd/822510/%E0%A6%B8%E0%A6%AE%E0%A7%8D%E0%A6%AD%E0%A6%BE%E0%A6%AC%E0%A6%A8%E0%A6%BE-%E0%A6%86%E0%A6%9B%E0%A7%87-%E0%A6%95%E0%A6%BF%E0%A6%A8%E0%A7%8D%E0%A6%A4%E0%A7%81-%E0%A6%95%E0%A6%B0%E0%A7%8D%E0%A6%AE%E0%A6%B8%E0%A6%82%E0%A6%B8%E0%A7%8D%E0%A6%A5%E0%A6%BE%E0%A6%A8-%E0%A6%95%E0%A7%8B%E0%A6%A5%E0%A6%BE%E0%A7%9F",
+      "publishedAt": "2026-11-23T00:00:00Z",
+      "firstSeenAt": "2026-11-23T01:04:51.176134Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "15b4f664549865d288f00b8a95feac40e6fff304f9a18ffd7daf45730c309e45"
+    },
+    {
+      "id": "c0fe2f2ba210720340d34b29",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "description": "Six people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/cqdr15l32d3go?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#1",
+      "publishedAt": "2026-11-22T23:53:45Z",
+      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "519d4421217bc88142000645166f54b59d8757b7378281c8bc4182e11d2d76cb"
+    },
     {
       "id": "c2af1bc421a7b36d3c2e2488",
       "sourceId": "banglatribune",
@@ -177,22 +369,6 @@
       "categoryName": "আন্তর্জাতিক",
       "isBreaking": false,
       "contentHash": "79ef78c68eb80104bf0a53395310ca4f274f0ee5b30d13fd6435dce42f2775dd"
-    },
-    {
-      "id": "c0fe2f2ba210720340d34b29",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "title": "Boy, 7, pulled from rubble hours after Russian strike in Ukraine, rescuers say",
-      "description": "Six people are dead, with rescue efforts ongoing to find those still missing from the residential building.",
-      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
-      "canonicalUrl": "https://bbc.co.uk/news/articles/cqdr15l32d3go?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go#1",
-      "publishedAt": "2026-11-22T22:25:00Z",
-      "firstSeenAt": "2026-11-22T23:41:53.950916Z",
-      "category": "international",
-      "categoryName": "আন্তর্জাতিক",
-      "isBreaking": false,
-      "contentHash": "7c0794bc116204fa480a9c789e1d77e51d9a134ee34429f13d538af8d14def70"
     },
     {
       "id": "180cc56c901c09a793ca6c53",
@@ -2419,22 +2595,6 @@
       "contentHash": "2412d2f4cb47e1d569add7577a5cfe1678d6380118f15f7c98d033639cac03c2"
     },
     {
-      "id": "42fd391308f9f80728409da4",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-      "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "canonicalUrl": "https://bbc.co.uk/news/articles/cqwy06zrd26lo?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo#1",
-      "publishedAt": "2026-11-22T18:17:59Z",
-      "firstSeenAt": "2026-11-22T18:45:09.998871Z",
-      "category": "international",
-      "categoryName": "আন্তর্জাতিক",
-      "isBreaking": false,
-      "contentHash": "95f5c2ea00ca6f57beb114961db006002ec68744cef78b5592cf063487ca617c"
-    },
-    {
       "id": "336bad272ababa925f614046",
       "sourceId": "banglatribune",
       "sourceName": "বাংলা ট্রিবিউন",
@@ -4231,7 +4391,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "নব্য জেএমবির সদস্য 'বোমারু মামুন' গ্রেফতার",
-      "description": "লক্ষ্মীপুরের রায়পুরে স্থানীয়দের হাতে আটক সাইফুল ইসলাম সুজনই নিষিদ্ধ ঘোষিত জঙ্গি সংগঠন নব্য জেএমবির সদস্য নাজমুল হাসান মামুন...",
+      "description": "নব্য জেএমবির সদস্য 'বোমারু মামুন' গ্রেফতার",
       "url": "https://www.jagonews24.com/national/news/1182501",
       "canonicalUrl": "https://jagonews24.com/national/news/1182501",
       "guid": "https://www.jagonews24.com/national/news/1182501",
@@ -4240,7 +4400,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "883362bea3db35d91c539f98bb374c51d85b06f27094293a79d275740e97050e"
+      "contentHash": "82ca53872bc795599ea8a1adfb04c3578e9cf95c0e689f1aec0e2d2f2f9442f2"
     },
     {
       "id": "f53d9cdee5075b11ec3ba11c",
@@ -7690,7 +7850,7 @@
       "description": "The head of the RAF said AI-enabled and uncrewed aircrafts are expected to start flying in UK airspace next year.",
       "url": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no?at_medium=RSS&at_campaign=rss",
       "canonicalUrl": "https://bbc.co.uk/news/articles/c68x08nzpk9no?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no#1",
+      "guid": "https://www.bbc.co.uk/news/articles/c68x08nzpk9no#4",
       "publishedAt": "2026-11-22T14:19:06Z",
       "firstSeenAt": "2026-11-22T14:48:48.968093Z",
       "category": "international",
@@ -8698,7 +8858,7 @@
       "description": "Strictly Come Dancing judge Motsi Mabuse was giving feedback to Delta Goodrem when she paused after the sound started playing.",
       "url": "https://www.bbc.co.uk/news/videos/ck782j066elvo?at_medium=RSS&at_campaign=rss",
       "canonicalUrl": "https://bbc.co.uk/news/videos/ck782j066elvo?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/videos/ck782j066elvo#1",
+      "guid": "https://www.bbc.co.uk/news/videos/ck782j066elvo#4",
       "publishedAt": "2026-11-22T13:46:00Z",
       "firstSeenAt": "2026-11-22T14:48:48.968093Z",
       "category": "international",
@@ -42330,7 +42490,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 314
+      "count": 316
     },
     {
       "id": "jugantor",
@@ -42378,7 +42538,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 293
+      "count": 295
     },
     {
       "id": "tbs",
@@ -42402,7 +42562,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 443
+      "count": 444
     },
     {
       "id": "banglanews24",
@@ -42530,7 +42690,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 73
+      "count": 74
     },
     {
       "id": "sylheterdak",
@@ -42554,7 +42714,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 86
+      "count": 90
     },
     {
       "id": "bbcbangla",
