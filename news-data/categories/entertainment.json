@@ -2,8 +2,9 @@
   "schemaVersion": 1,
   "category": "entertainment",
   "label": "বিনোদন",
-  "generatedAt": "2026-11-24T02:19:03.070042Z",
+  "generatedAt": "2026-11-24T03:28:19.579724Z",
   "articleIds": [
+    "9f214d114d91f15b2769901c",
     "d16a46d93ec19fa5a91d0f80",
     "782dd74f0b4619e114c37e79",
     "3270d908f3811fea6b198adc",
@@ -93,9 +94,6 @@
     "163c195b9244802cb9753427",
     "f40a1c9180458caa7c036c08",
     "b8e82d49ce086b4ecab7e46a",
-    "3bf5b0d2f48ce91d9688c14b",
-    "b0005ef22fcfbfc029ae2cc3",
-    "1c42d9d4ae7f0a91b9ab7180",
-    "71e5b777eb4ec07d2e26f79a"
+    "3bf5b0d2f48ce91d9688c14b"
   ]
 }
