@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "category": "health",
   "label": "স্বাস্থ্য",
-  "generatedAt": "2026-11-24T17:09:04.330049Z",
+  "generatedAt": "2026-11-24T18:22:08.956141Z",
   "articleIds": [
     "920d06aa6d07e14662d193b8",
     "2c511ef8867603ec62c86952",
@@ -86,7 +86,6 @@
     "396434639ebfefd7bc126a36",
     "29ac6f51c2eba3a217a172ef",
     "14300549bce80ada251ebc60",
-    "42bb0c58ed0cdfa3371483ba",
-    "2d15a3e4454abcc8427a4f11"
+    "42bb0c58ed0cdfa3371483ba"
   ]
 }
