@@ -2,10 +2,20 @@
   "schemaVersion": 1,
   "category": "health",
   "label": "স্বাস্থ্য",
-  "generatedAt": "2026-11-24T10:08:27.868142Z",
+  "generatedAt": "2026-11-24T11:26:28.578278Z",
   "articleIds": [
-    "f966bea48731e6c56e6b58b4",
+    "f332a8420f72f0a769f845d2",
+    "ae3f0417ba3605b8af2f2d36",
     "fcc22ee00181eda658101f4b",
+    "0f9827d7a943a071a1da35d6",
+    "053c3e66bba6c8c594e6aef8",
+    "c1a6e5671b7bccb5659b6830",
+    "822a1146c6da6e42c30bd124",
+    "5f3ac8e9a69dde6bbfa92bf0",
+    "f8511edb69a1c9438bd47c67",
+    "ecea05fde31e9332143af5fc",
+    "98441369d932b42f1863b567",
+    "f966bea48731e6c56e6b58b4",
     "096957a48be2d4f2590df3df",
     "497dda436a4500d1ff80a022",
     "5cab7d66c2f4f899b98dc5eb",
@@ -65,11 +75,6 @@
     "9242245c381ae24fd2de34fd",
     "0c619ff9a64ea2698808f039",
     "ffd6e01d01384edf378d8082",
-    "3625c3e13caddd08faa6a7b4",
-    "6b35380052a7847d3cf349bd",
-    "e968f78f56daadb1aac1dced",
-    "0b95a9be6f61e4165076b936",
-    "11ccb8124f10863bead14bcf",
-    "a1588918403a7dd83d0f447d"
+    "3625c3e13caddd08faa6a7b4"
   ]
 }
