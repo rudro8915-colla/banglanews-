@@ -2,8 +2,16 @@
   "schemaVersion": 1,
   "category": "economy",
   "label": "অর্থনীতি",
-  "generatedAt": "2026-11-24T14:58:12.896807Z",
+  "generatedAt": "2026-11-24T16:07:02.893949Z",
   "articleIds": [
+    "873b9cc261fa3bf804586022",
+    "a23211954290d188dc770d63",
+    "a5968e2ee17ff85c4eaa1264",
+    "30db36f09a8708d7b10f2410",
+    "f8484ae13f67008196357fb2",
+    "8e60f6a21f03e1915609e7d5",
+    "693feeea86d8b9d7243a39f9",
+    "5959f9de6cabd538fff4108a",
     "81f2acd54344420547faecf3",
     "132165309ad4f2c4b752b13b",
     "7f277cad3fe1420942618e18",
@@ -176,12 +184,6 @@
     "4a6064e10cebee664dd9dacd",
     "62a5015f24f4f89c79ad7425",
     "46dbb60ac75d12d4afc8329b",
-    "cec50e4980deb726427a5dc6",
-    "2d847a88c741d54962a70bc3",
-    "461775950eaf0958dc19d5e5",
-    "1f62dd42c845460796a0adbb",
-    "baf6259da44f02ae82d08534",
-    "4a909a30d526c3663d5333fa",
-    "1957f240964a097676405cde"
+    "cec50e4980deb726427a5dc6"
   ]
 }
