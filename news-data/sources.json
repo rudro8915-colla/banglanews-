@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T01:04:16.152892Z",
+  "generatedAt": "2026-11-24T02:19:03.070042Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -8,7 +8,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 427
+      "count": 426
     },
     {
       "id": "dailystar",
@@ -16,7 +16,7 @@
       "url": "https://www.thedailystar.net",
       "status": "ok",
       "reason": "",
-      "count": 45
+      "count": 44
     },
     {
       "id": "ittefaq",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 313
+      "count": 306
     },
     {
       "id": "jugantor",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 339
+      "count": 337
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 166
+      "count": 165
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 610
+      "count": 583
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 383
+      "count": 420
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 365
+      "count": 360
     },
     {
       "id": "kalbela",
@@ -224,7 +224,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 49
+      "count": 58
     },
     {
       "id": "sylheterdak",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 108
+      "count": 106
     },
     {
       "id": "bbcbangla",
