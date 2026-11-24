@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-24T05:59:25.920148Z",
+  "generatedAt": "2026-11-24T07:14:01.052260Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -8,7 +8,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 442
+      "count": 446
     },
     {
       "id": "dailystar",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 305
+      "count": 303
     },
     {
       "id": "jugantor",
@@ -64,7 +64,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 174
+      "count": 171
     },
     {
       "id": "banglatribune",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 349
+      "count": 345
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 159
+      "count": 154
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 570
+      "count": 569
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 419
+      "count": 418
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 370
+      "count": 376
     },
     {
       "id": "kalbela",
@@ -224,7 +224,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 53
+      "count": 52
     },
     {
       "id": "sylheterdak",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 102
+      "count": 109
     },
     {
       "id": "bbcbangla",

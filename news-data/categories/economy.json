@@ -2,8 +2,18 @@
   "schemaVersion": 1,
   "category": "economy",
   "label": "অর্থনীতি",
-  "generatedAt": "2026-11-24T05:59:25.920148Z",
+  "generatedAt": "2026-11-24T07:14:01.052260Z",
   "articleIds": [
+    "5d99ef92bf1c132fd7645fdf",
+    "5535193e0d488da58fdbe272",
+    "524ddbeab9d8fc20780a7ff3",
+    "1bc498d9542997b3cde78918",
+    "15dd4091f6f4944fb7095ae9",
+    "d732a07769e84a2ed113be2c",
+    "38866ffe77f8347c927159a3",
+    "29711a442e8f8d784d69e214",
+    "37ad729537049a7bf30376cd",
+    "ab24d44a51822aa73aec5111",
     "20243fdd3115e50863e05710",
     "eac4460c1a333006777c68ec",
     "4c31ac4031ac9c2b6069d019",
@@ -173,16 +183,6 @@
     "930f043ebeb770d8aba62bc1",
     "f776de5ed9dc698400d8654a",
     "e58af225c58279c75eec690e",
-    "6561483b32b7a9720e58d892",
-    "f043dbcb8ef9267b9abb21fc",
-    "8831d23edb2c0025542cd110",
-    "447ed2fc9a01c3490244f22b",
-    "7876d76c98900aadb5506fec",
-    "60c843faadf893bd6bf44e13",
-    "b7ac4113125ef9220b8a81c3",
-    "135723b9928fabd8facb3726",
-    "66ef21d2467faf2d7aedd904",
-    "6cb4427a576a06d65fc6d76a",
-    "5969e0048bd5012a74c68af4"
+    "6561483b32b7a9720e58d892"
   ]
 }
