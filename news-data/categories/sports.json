@@ -2,13 +2,20 @@
   "schemaVersion": 1,
   "category": "sports",
   "label": "খেলা",
-  "generatedAt": "2026-11-25T07:58:16.419724Z",
+  "generatedAt": "2026-11-25T09:05:01.316787Z",
   "articleIds": [
+    "716ac17808c06cb1bdd27591",
+    "2530ee91c69523b57637df7a",
+    "f70989f4c74869186a99ebda",
+    "df4b15f443988cbb961edbee",
+    "c72e6e0a9380a51feace3c79",
+    "ab274da75864d9b0dd491db8",
     "cd7af51024ba2cedd8640525",
     "18d23a878b1bbb9236ca76c1",
     "8a3fc9ae8d7b15ae52ab913b",
     "531ea0068ca00c0744252958",
     "3fe72bfd9036b27c7acbd491",
+    "94caf4d5c85a57a6277a706e",
     "1c853e912a360ea339860c40",
     "e00e2031aebb306ad4fbef8e",
     "2062b169f7eadec823027cda",
@@ -276,15 +283,6 @@
     "83eecadff18b412b140ee8a8",
     "ee56cbcaaf26687d1c8190c6",
     "4b354234c50a82113d61b7c7",
-    "37934546eacc454c97498d83",
-    "c33dc8152fb2a1ecec48947f",
-    "44f8d92faada91fccf3521f7",
-    "450f06018f310178cc3ee1ce",
-    "03961ddf2de0a56a09ea0cf6",
-    "72279a2ec15d4b3fc6289bce",
-    "90b47d10ef37f5b82a15699c",
-    "b627e9d79deabb96ee9ce703",
-    "b994b085352c793ec3d88f40",
-    "0f684f1962817e1192d67a7a"
+    "37934546eacc454c97498d83"
   ]
 }
