@@ -2,8 +2,10 @@
   "schemaVersion": 1,
   "category": "national",
   "label": "জাতীয়",
-  "generatedAt": "2026-11-24T23:24:26.315940Z",
+  "generatedAt": "2026-11-25T00:21:21.748836Z",
   "articleIds": [
+    "224e8bddd0eca36a4d7b90c0",
+    "be366a2913e323fe8e2238d3",
     "e897f1ce20b55445bb853406",
     "e74e065f35e38f04825b72cd",
     "eee526901f5bfb9aa4fc90b4",
@@ -1713,13 +1715,6 @@
     "64ffb91e68dd62c86830a991",
     "c6093da9087b9d1403c36cd3",
     "2168ad6b63cbe1c75dde167d",
-    "a4f0fa06b73df2bcc814782a",
-    "04022a44b136e43a965dc3bb",
-    "067e6ddef824080040c6fa51",
-    "4ac0d0feef4fce47edb97bc9",
-    "bf2cc741631bd4899b543216",
-    "1d191732236ebfd6815a547b",
-    "78b17e6174aeba532782261d",
-    "f26ffb9c745ba7f4f5a24d65"
+    "a4f0fa06b73df2bcc814782a"
   ]
 }
