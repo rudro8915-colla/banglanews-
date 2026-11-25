@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T06:27:30.993492Z",
+  "generatedAt": "2026-11-25T07:58:16.419724Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -8,7 +8,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 424
+      "count": 425
     },
     {
       "id": "dailystar",
@@ -16,7 +16,7 @@
       "url": "https://www.thedailystar.net",
       "status": "ok",
       "reason": "",
-      "count": 50
+      "count": 49
     },
     {
       "id": "ittefaq",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 266
+      "count": 269
     },
     {
       "id": "jugantor",
@@ -64,7 +64,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 167
+      "count": 152
     },
     {
       "id": "banglatribune",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 341
+      "count": 348
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 153
+      "count": 154
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 588
+      "count": 599
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 447
+      "count": 441
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 369
+      "count": 372
     },
     {
       "id": "kalbela",
@@ -216,7 +216,7 @@
       "url": "https://dainikpurbokone.net",
       "status": "ok",
       "reason": "",
-      "count": 14
+      "count": 13
     },
     {
       "id": "azadi",
@@ -224,7 +224,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 36
+      "count": 35
     },
     {
       "id": "sylheterdak",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 139
+      "count": 137
     },
     {
       "id": "bbcbangla",
