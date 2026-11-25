@@ -1,7 +1,87 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T22:27:43.813620Z",
+  "generatedAt": "2026-11-25T23:23:57.043826Z",
   "articles": [
+    {
+      "id": "96fe31b5c33c5157f8398cf0",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "যৌতুকের দাবিতে গৃহবধূকে পুড়িয়ে হত্যা, স্বামীসহ ২ জনের মৃত্যুদণ্ড",
+      "description": "যৌতুকের দাবিতে গৃহবধূ নাছিমা খাতুনকে গায়ে কেরোসিন ঢেলে পুড়িয়ে হত্যার মামলায় স্বামী শওকত আলী ও তার দ্বিতীয় স্ত্রীর ভাই শফিকুল ইসলামকে মৃত্যুদণ্ড...",
+      "url": "https://www.jagonews24.com/country/news/1183777",
+      "canonicalUrl": "https://jagonews24.com/country/news/1183777",
+      "guid": "https://www.jagonews24.com/country/news/1183777",
+      "publishedAt": "2026-11-25T23:18:10Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "b9fcdc7c0b025eaff63a051453c8ac07cf8d51b02d1e94495f8b02f6f113dc3c"
+    },
+    {
+      "id": "c3f5f59418aaf4b44ff2dd40",
+      "sourceId": "dhakatribune",
+      "sourceName": "Dhaka Tribune",
+      "title": "Jubo Dal's Nayan says tip-off led him to 20 suspected Awami League members",
+      "description": "The incident occurred Wednesday afternoon Details",
+      "url": "https://www.dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
+      "canonicalUrl": "https://dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
+      "guid": "https://www.dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
+      "publishedAt": "2026-11-25T23:16:38Z",
+      "firstSeenAt": "2026-11-25T22:27:43.813620Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "0ed0d3f28897a5102cec8b381250736257b7c89cb9162c342a7f44e9c3f76f6d"
+    },
+    {
+      "id": "e7bb3746562080430d0d132a",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "ভারতফেরত নিষিদ্ধ ছাত্রলীগ নেতাকে আশ্রয়, বহিষ্কার যুবদল কর্মী",
+      "description": "ভারত থেকে দেশে ফেরা নিষিদ্ধ ঘোষিত ছাত্রলীগের এক নেতাকে আশ্রয় দেওয়ার অভিযোগে কুমিল্লায় যুবদলের এক কর্মীকে বহিষ্কার করা হয়েছে। বুধবার সন্ধ্যায় কুমিল্লা দক্ষ…",
+      "url": "https://www.banglatribune.com/country/chitagong/983287/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0",
+      "canonicalUrl": "https://banglatribune.com/country/chitagong/983287/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0",
+      "guid": "https://www.banglatribune.com/country/chitagong/983287/%E0%A6%AD%E0%A6%BE%E0%A6%B0%E0%A6%A4%E0%A6%AB%E0%A7%87%E0%A6%B0%E0%A6%A4-%E0%A6%A8%E0%A6%BF%E0%A6%B7%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%A7-%E0%A6%9B%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%B6%E0%A7%8D%E0%A6%B0%E0%A6%AF%E0%A6%BC-%E0%A6%AC%E0%A6%B9%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0",
+      "publishedAt": "2026-11-25T23:07:42Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "92b4034f25c87991af214bc4cce7e904a25b202a853066ef4e8900168e53c879"
+    },
+    {
+      "id": "0bcf4c4f00c6c93f03278f09",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "টানা কমছে স্বর্ণের দাম: নেমেছে এক বছরের মধ্যে সর্বনিম্নে",
+      "description": "বিশ্ববাজারে হঠাৎ করে সোনার দাম ২ শতাংশের বেশি কমে যাওয়ায় মূল্যবান এই ধাতুর দর এক বছরেরও বেশি সময়ের মধ্যে সর্বনিম্ন পর্যায়ে নেমে এসেছে। যুক্তরাষ্ট্রের কেন্দ…",
+      "url": "https://www.ittefaq.com.bd/823034/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%AE%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87",
+      "canonicalUrl": "https://ittefaq.com.bd/823034/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%AE%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87",
+      "guid": "https://www.ittefaq.com.bd/823034/%E0%A6%9F%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%95%E0%A6%AE%E0%A6%9B%E0%A7%87-%E0%A6%B8%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A7%87%E0%A6%B0-%E0%A6%A6%E0%A6%BE%E0%A6%AE-%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A7%87%E0%A6%9B%E0%A7%87-%E0%A6%8F%E0%A6%95-%E0%A6%AC%E0%A6%9B%E0%A6%B0%E0%A7%87%E0%A6%B0-%E0%A6%AE%E0%A6%A7%E0%A7%8D%E0%A6%AF%E0%A7%87",
+      "publishedAt": "2026-11-25T23:00:00Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "c2967784e63d911a164c23a8d01c09aa6b17b48d93abc03a4117744732682e52"
+    },
+    {
+      "id": "fcb413f83423951d308f92a5",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Lammens howler denies Man Utd victory against Sporting in incident-packed game",
+      "description": "Goalkeeper Senne Lammens endures a topsy-turvy night as Manchester United draw with Sporting.controversial decisions.",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/videos/c6ly5145gg1do?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/videos/c6ly5145gg1do#9",
+      "publishedAt": "2026-11-25T22:32:51Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "f4515aa9ec2250f5a8f5bdf6a5d5b4503950c87d1c1221e9ba16a64eb4adf96c"
+    },
     {
       "id": "99325fd7541ec82f08f69f8f",
       "sourceId": "bbcnews",
@@ -65,6 +145,38 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "14deb464fa53b13454e4768ecebece9fefdb9b117adfc6be59468807386312e4"
+    },
+    {
+      "id": "4aeb6a93269c6ee1b4acc9d7",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Andy Taylor: Duran Duran's livewire guitarist who was a true Wild Boy",
+      "description": "How a wayward child from the north-east of England made it with the world's biggest band.",
+      "url": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/c0666rn4l5vo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/c0666rn4l5vo#3",
+      "publishedAt": "2026-11-25T22:16:14Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "9000147970e5a87ae2943d52fdb5c1202ca56e64b262df226c2345f00ddaeee1"
+    },
+    {
+      "id": "0b3c049da357c973bea40f73",
+      "sourceId": "prothomalo",
+      "sourceName": "প্রথম আলো",
+      "title": "নাটকীয় ম্যাচে ইউনাইটেডের ড্র, আত্মঘাতী গোলে হেরেই গেল বায়ার্ন",
+      "description": "স্পোর্তিং ২ : ২ ইউনাইটেড, লিল ২ : ১ বায়ার্নএক ম্যাচে তিনটি পেনাল্টি, দুবার গোল বাতিল, দুই গোলরক্ষকের গুরুতর ভুল আর শেষ দিকে এক দলের ১০ জনের দলে পরিণত হওয়া—না…",
+      "url": "https://www.prothomalo.com/sports/football/jkqknindxj",
+      "canonicalUrl": "https://prothomalo.com/sports/football/jkqknindxj",
+      "guid": "9b62f9cd-3d4b-4326-af73-e5126ea2ad59",
+      "publishedAt": "2026-11-25T22:14:57Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "864bfc693a45474d8ba426552ac8e15cb09fb8e78457342ae10ff71af0f481e6"
     },
     {
       "id": "fbed060183e541d59f631861",
@@ -131,22 +243,6 @@
       "contentHash": "576e4287fb6b17f438de1187831c667882617ece146b6fc89c98a2c8b008367c"
     },
     {
-      "id": "c3f5f59418aaf4b44ff2dd40",
-      "sourceId": "dhakatribune",
-      "sourceName": "Dhaka Tribune",
-      "title": "Jubo Dal's Rabiul Islam Nayan says tip-off led him to 20 suspected Awami League members",
-      "description": "The incident occurred Wednesday afternoon Details",
-      "url": "https://www.dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
-      "canonicalUrl": "https://dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
-      "guid": "https://www.dhakatribune.com/bangladesh/425776/jubo-dal-s-rabiul-islam-nayan-says-tip-off-led-him",
-      "publishedAt": "2026-11-25T21:48:40Z",
-      "firstSeenAt": "2026-11-25T22:27:43.813620Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "1a92bdd28fb911d55bc5f6a7be255b42a2c1c9ea09e4775a17b3a2107d4d9595"
-    },
-    {
       "id": "95d57024b44250299b6de96d",
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
@@ -193,6 +289,22 @@
       "categoryName": "আন্তর্জাতিক",
       "isBreaking": false,
       "contentHash": "4d3ec275cb14c78b8f1a45b620515b87cacbc599e4aa3c9f14e1e0f3d55e78a3"
+    },
+    {
+      "id": "ded5043d8ef6f4ec903687bd",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Regulator chief 'has stomach' to face Man City",
+      "description": "The chair of English football's independent regulator tells MPs he \"has the stomach\" to take potential action against Manchester City.",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/sport/football/articles/c65y10z8k59jo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/sport/football/articles/c65y10z8k59jo#9",
+      "publishedAt": "2026-11-25T21:27:35Z",
+      "firstSeenAt": "2026-11-25T23:23:57.043826Z",
+      "category": "sports",
+      "categoryName": "খেলা",
+      "isBreaking": false,
+      "contentHash": "51dd3fd6e96d5c9cc7421f6ff36b9ac407bb9ebc987b2c11f07fe0ee3f01b8d6"
     },
     {
       "id": "746546d060a3f805d212d9e1",
@@ -2887,7 +2999,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "জাবি শিক্ষার্থীকে মারধরের অভিযোগ, প্রতিবাদে ঢাকা-আরিচা মহাসড়ক অবরোধ",
-      "description": "জাহাঙ্গীরনগর বিশ্ববিদ্যালয়ের (জাবি) এক শিক্ষার্থীকে সেনাসদস্যরা মারধর করেছেন বলে অভিযোগ উঠেছে। এর প্রতিবাদে ঢাকা-আরিচা মহাসড়ক অবরোধ করেছেন...",
+      "description": "জাবি শিক্ষার্থীকে মারধরের অভিযোগ, প্রতিবাদে ঢাকা-আরিচা মহাসড়ক অবরোধ",
       "url": "https://www.jagonews24.com/campus/news/1183762",
       "canonicalUrl": "https://jagonews24.com/campus/news/1183762",
       "guid": "https://www.jagonews24.com/campus/news/1183762",
@@ -2896,7 +3008,7 @@
       "category": "education",
       "categoryName": "শিক্ষা",
       "isBreaking": false,
-      "contentHash": "73674e3d7cf6c10042d01c049e477b54945623bd8c53843e68cb6302121fc45a"
+      "contentHash": "477b069e4531246069988ade7864d4eaba9a3a38020628f6bf38c9221263c624"
     },
     {
       "id": "262062e08217be131c2f34ce",
@@ -47889,118 +48001,6 @@
       "categoryName": "আন্তর্জাতিক",
       "isBreaking": false,
       "contentHash": "6dfcf5ee3d6d49c9d94c01a733f6a58ad4492c7a8a722a9c4517c00c48e342f9"
-    },
-    {
-      "id": "b09b09e60a474afb1178d516",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "বেনাপোলে শ্রমিক নেতার ওপর বোমা হামলা",
-      "description": "বেনাপোলে শ্রমিক নেতার ওপর বোমা হামলা",
-      "url": "https://www.jagonews24.com/country/news/1183101",
-      "canonicalUrl": "https://jagonews24.com/country/news/1183101",
-      "guid": "https://www.jagonews24.com/country/news/1183101",
-      "publishedAt": "2026-11-24T09:08:06Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "0d7b4285e0fb4c710b41a9be2f96b23bb1350a4de3415caa2bcb7f170242693c"
-    },
-    {
-      "id": "9ee5381b8afb81d5261c161b",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "শেখ হাসিনা বাংলাদেশের ভূখণ্ডে প্রবেশ করলে গ্রেফতার: শামা ওবায়েদ",
-      "description": "শেখ হাসিনা বাংলাদেশের ভূখণ্ডে প্রবেশ করলে গ্রেফতার: শামা ওবায়েদ",
-      "url": "https://www.jagonews24.com/national/news/1183100",
-      "canonicalUrl": "https://jagonews24.com/national/news/1183100",
-      "guid": "https://www.jagonews24.com/national/news/1183100",
-      "publishedAt": "2026-11-24T09:06:50Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "95e1c4c494db4375927c1421879432de27d3b88914f27818ae01297618445a52"
-    },
-    {
-      "id": "497dda436a4500d1ff80a022",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "হাম উপসর্গে আরও ৯ মৃত্যু",
-      "description": "হাম উপসর্গে আরও ৯ মৃত্যু",
-      "url": "https://www.jagonews24.com/health/news/1183099",
-      "canonicalUrl": "https://jagonews24.com/health/news/1183099",
-      "guid": "https://www.jagonews24.com/health/news/1183099",
-      "publishedAt": "2026-11-24T09:06:18Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "health",
-      "categoryName": "স্বাস্থ্য",
-      "isBreaking": false,
-      "contentHash": "5f91ba2ba0f5db8e6ae32065a2d5975bb7750011279d8258d4e343d6316acb52"
-    },
-    {
-      "id": "b2ecf64db320e468f06ce8cd",
-      "sourceId": "deshrupantor",
-      "sourceName": "দেশ রূপান্তর",
-      "title": "পূবাইল থানা প্রেসক্লাবের ৮ম প্রতিষ্ঠাবার্ষিকী উদ্‌যাপন",
-      "description": "গাজীপুর মহানগরীর পূবাইলে নানা আয়োজনের মধ্য দিয়ে পূবাইল থানা প্রেসক্লাবের অষ্টম প্রতিষ্ঠাবার্ষিকী উদ্‌যাপন করা হয়েছে। এ উপলক্ষে আলোচনা সভা, কেক কাটা, দোয়া ম…",
-      "url": "https://www.deshrupantor.com/737528/%E0%A6%AA%E0%A7%82%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A7%AE%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A7%80",
-      "canonicalUrl": "https://deshrupantor.com/737528/%E0%A6%AA%E0%A7%82%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A7%AE%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A7%80",
-      "guid": "https://www.deshrupantor.com/737528/%E0%A6%AA%E0%A7%82%E0%A6%AC%E0%A6%BE%E0%A6%87%E0%A6%B2-%E0%A6%A5%E0%A6%BE%E0%A6%A8%E0%A6%BE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A7%87%E0%A6%B8%E0%A6%95%E0%A7%8D%E0%A6%B2%E0%A6%BE%E0%A6%AC%E0%A7%87%E0%A6%B0-%E0%A7%AE%E0%A6%AE-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%A0%E0%A6%BE%E0%A6%AC%E0%A6%BE%E0%A6%B0%E0%A7%8D%E0%A6%B7%E0%A6%BF%E0%A6%95%E0%A7%80",
-      "publishedAt": "2026-11-24T09:06:12Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "626707d3362b430185f3ea312ef430bf4f543e95b1e9d346b2eda317e91d6f31"
-    },
-    {
-      "id": "f3a5fb717576658b7bf0bd96",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "বদলির পর সরকারি বাসায় থাকলে দিতে হবে দ্বিগুণ ভাড়া",
-      "description": "বদলির পর সরকারি বাসায় থাকলে দিতে হবে দ্বিগুণ ভাড়া",
-      "url": "https://www.jagonews24.com/national/news/1183097",
-      "canonicalUrl": "https://jagonews24.com/national/news/1183097",
-      "guid": "https://www.jagonews24.com/national/news/1183097",
-      "publishedAt": "2026-11-24T09:04:43Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "da93e581c7b5bce5708ffb8b2da52dd41a7fbabb0779e20feb60c4da347c6e6f"
-    },
-    {
-      "id": "1046032559eda9047c96a3e7",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "রূপায়ণ গ্রুপে নিয়োগ, ঢাকায় কাজের সুযোগ",
-      "description": "রূপায়ণ গ্রুপে নিয়োগ, ঢাকায় কাজের সুযোগ",
-      "url": "https://www.jagonews24.com/jago-jobs/news/1183096",
-      "canonicalUrl": "https://jagonews24.com/jago-jobs/news/1183096",
-      "guid": "https://www.jagonews24.com/jago-jobs/news/1183096",
-      "publishedAt": "2026-11-24T09:04:06Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "196fd03964e2921fd687f0a608a46ae7cf85c643c020853f30388dc802d3d353"
-    },
-    {
-      "id": "6ce18d7e2c6440f4b7fe5611",
-      "sourceId": "deshrupantor",
-      "sourceName": "দেশ রূপান্তর",
-      "title": "ঢাকার সড়কে তিন হাজার বৈদ্যুতিক বাস চালানোর উদ্যোগ",
-      "description": "বৈদ্যুতিক বাস চালুর মাধ্যমে পরিবহন খাতের দূষণ কমানোর বিষয়টিও পরিকল্পনায় গুরুত্ব পেয়েছে। বিস্তারিত",
-      "url": "https://www.deshrupantor.com/737526/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97",
-      "canonicalUrl": "https://deshrupantor.com/737526/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97",
-      "guid": "https://www.deshrupantor.com/737526/%E0%A6%A2%E0%A6%BE%E0%A6%95%E0%A6%BE%E0%A6%B0-%E0%A6%B8%E0%A7%9C%E0%A6%95%E0%A7%87-%E0%A6%A4%E0%A6%BF%E0%A6%A8-%E0%A6%B9%E0%A6%BE%E0%A6%9C%E0%A6%BE%E0%A6%B0-%E0%A6%AC%E0%A7%88%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A6%A4%E0%A6%BF%E0%A6%95-%E0%A6%AC%E0%A6%BE%E0%A6%B8-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A6%BE%E0%A6%A8%E0%A7%87%E0%A6%BE%E0%A6%B0-%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%8B%E0%A6%97",
-      "publishedAt": "2026-11-24T09:02:56Z",
-      "firstSeenAt": "2026-11-24T10:08:27.868142Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "d0d313472bad832b0730472bcec7781b964839946aee043f08e1c49847c2fcd5"
     }
   ],
   "sources": [
@@ -48010,7 +48010,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 406
+      "count": 407
     },
     {
       "id": "dailystar",
@@ -48026,7 +48026,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 255
+      "count": 256
     },
     {
       "id": "jugantor",
@@ -48074,7 +48074,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 343
+      "count": 344
     },
     {
       "id": "tbs",
@@ -48098,7 +48098,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 622
+      "count": 618
     },
     {
       "id": "banglanews24",
@@ -48146,7 +48146,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 450
+      "count": 448
     },
     {
       "id": "ajkerpatrika",
@@ -48250,7 +48250,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 138
+      "count": 141
     },
     {
       "id": "bbcbangla",
