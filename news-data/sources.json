@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T02:55:16.785518Z",
+  "generatedAt": "2026-11-25T04:00:26.048292Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 262
+      "count": 263
     },
     {
       "id": "jugantor",
@@ -64,7 +64,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 170
+      "count": 166
     },
     {
       "id": "banglatribune",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 330
+      "count": 337
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 162
+      "count": 160
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 586
+      "count": 585
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 457
+      "count": 455
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 365
+      "count": 369
     },
     {
       "id": "kalbela",
@@ -224,7 +224,7 @@
       "url": "https://dainikazadi.net",
       "status": "ok",
       "reason": "",
-      "count": 38
+      "count": 37
     },
     {
       "id": "sylheterdak",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 145
+      "count": 143
     },
     {
       "id": "bbcbangla",
