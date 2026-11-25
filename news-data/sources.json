@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-25T19:29:53.001195Z",
+  "generatedAt": "2026-11-25T20:26:45.008218Z",
   "sources": [
     {
       "id": "prothomalo",
@@ -8,7 +8,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 406
+      "count": 407
     },
     {
       "id": "dailystar",
@@ -24,7 +24,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 254
+      "count": 253
     },
     {
       "id": "jugantor",
@@ -64,7 +64,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 173
+      "count": 172
     },
     {
       "id": "banglatribune",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 347
+      "count": 345
     },
     {
       "id": "tbs",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 636
+      "count": 632
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 444
+      "count": 451
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 359
+      "count": 358
     },
     {
       "id": "kalbela",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 132
+      "count": 133
     },
     {
       "id": "bbcbangla",
