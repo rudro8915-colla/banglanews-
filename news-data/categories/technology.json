@@ -2,8 +2,11 @@
   "schemaVersion": 1,
   "category": "technology",
   "label": "প্রযুক্তি",
-  "generatedAt": "2026-11-26T06:04:11.976168Z",
+  "generatedAt": "2026-11-26T07:20:17.191634Z",
   "articleIds": [
+    "66cc1c67f518c20b872c54bd",
+    "09072ece1969dc223e6ecb60",
+    "f44226cc60322f113874addd",
     "6a4aba625f749ab8ccded33b",
     "e60cc26cf642cb776e9ac50f",
     "90446e57cb81eaedb5f1143e",
@@ -33,7 +36,6 @@
     "f3db0d34d18ef68f635894eb",
     "d999a246bf96448fbcfcc51b",
     "71242bd57e1f847e20ae6f95",
-    "42bb06d9c3a9a03f5eca5325",
-    "3d4a41e6457ff4ad689ad7fb"
+    "42bb06d9c3a9a03f5eca5325"
   ]
 }
