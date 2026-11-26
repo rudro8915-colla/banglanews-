@@ -2,8 +2,13 @@
   "schemaVersion": 1,
   "category": "international",
   "label": "আন্তর্জাতিক",
-  "generatedAt": "2026-11-26T17:07:32.534372Z",
+  "generatedAt": "2026-11-26T18:20:05.017257Z",
   "articleIds": [
+    "a8138065e0961e5675267739",
+    "416e557595c28cf6cd5cf080",
+    "504a7cceeccd1ecaf1023b75",
+    "585147719df77d26d0631533",
+    "09e069d64384d46a7fa315ab",
     "c71066a3a449ec313a118612",
     "5e5081d82b760ebcf53c6938",
     "8ef88e591b229e0593a4ecbf",
@@ -12,7 +17,6 @@
     "84285a23329220f2370d8eb5",
     "6607a78cc6d105bbd0ff0fca",
     "a92f02e7972621f8f292afde",
-    "504a7cceeccd1ecaf1023b75",
     "3bd2c557f2440a75309d166c",
     "c2587d6566805937d68b2130",
     "bcaf96afca31b9157a0ff72c",
@@ -267,14 +271,6 @@
     "3e285fafbac4b50a72ebdaba",
     "6dd3c69182a533cceff8ec4d",
     "86615fc306ea4cc6bbda382a",
-    "80d81af6f33a0e8cbcd42d49",
-    "76136fcbecb0c961e6655be4",
-    "6ad23e1ca5111185eb9a01b0",
-    "90956ff9dec5909332cd8005",
-    "c4d320b707eaa262d487f27a",
-    "724795cf143cd345383405de",
-    "3d07c70301bdd97b816ab08c",
-    "960d86faf528563fa4b5f8d5",
-    "5a6b83c764e6e329a09c010d"
+    "80d81af6f33a0e8cbcd42d49"
   ]
 }
