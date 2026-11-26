@@ -2,8 +2,13 @@
   "schemaVersion": 1,
   "category": "education",
   "label": "শিক্ষা",
-  "generatedAt": "2026-11-26T01:55:10.264121Z",
+  "generatedAt": "2026-11-26T02:54:18.126449Z",
   "articleIds": [
+    "4a4c539e49ac34fd13094e40",
+    "ca1f0192e04b6ae9fea249cf",
+    "1f4c6330dec9226ce8014aaf",
+    "fb2db00462fbf158435f3f1d",
+    "05b8269cb863d2f3a1853d9c",
     "1d6cc746fe5924d1d248f0e4",
     "06d71e8b707c7d5dde612012",
     "0bd54fc38e2e4cad5bbe8c6b",
@@ -158,8 +163,6 @@
     "20d49208d5efd8bd279e1dd9",
     "672d18eb923c48b3e4e8593d",
     "d12533ac37b8d7dd2a1e09d5",
-    "fca5c9727c4508c7ac7d33a0",
-    "80b03bc9dcaa0a2aa0cbdaeb",
-    "322fb439b3494bd5d36a1412"
+    "fca5c9727c4508c7ac7d33a0"
   ]
 }
