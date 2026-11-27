@@ -2,8 +2,10 @@
   "schemaVersion": 1,
   "category": "politics",
   "label": "রাজনীতি",
-  "generatedAt": "2026-11-27T03:59:57.407088Z",
+  "generatedAt": "2026-11-27T05:06:17.908587Z",
   "articleIds": [
+    "f32d3734d89f6d61ed59734c",
+    "cece8f4c556498b24a4fc3bf",
     "e4b457079da4e15d10ccac5f",
     "8f81a903e629a4d1c06337cc",
     "7b61ec6d70f59dbeac2580bd",
@@ -125,11 +127,6 @@
     "8425195dbc31307a3117774c",
     "3ddae86c4b2c5b58e6929efe",
     "dff578dedb0c635b3d542d02",
-    "ce8ec1f97e8d40d22d484f7d",
-    "601236cab512e1129af797ee",
-    "781d834ae3c8fcce605dffb5",
-    "eacfa753c00c558631e3ef13",
-    "f2d8e77c3d501b00523f9286",
-    "3403a319861bddc03136436a"
+    "ce8ec1f97e8d40d22d484f7d"
   ]
 }
