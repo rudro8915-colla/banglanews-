@@ -1,7 +1,183 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T20:56:04.620650Z",
+  "generatedAt": "2026-11-27T21:55:32.400939Z",
   "articles": [
+    {
+      "id": "3ce2950413e1839119859933",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "মাদারীপুরে আওয়ামী লীগ-বিএনপি সংঘর্ষ, অর্ধশত ককটেল বিস্ফোরণ",
+      "description": "মাদারীপুরের কালকিনিতে কার্যক্রম নিষিদ্ধ আওয়ামী লীগ ও বিএনপির নেতাকর্মীদের মধ্যে সংঘর্ষের ঘটনা ঘটেছে। এতে আহত হয়েছেন ছয়জন। এসময় অর্ধশতাধিক ককটেল বিস্ফোরণের…",
+      "url": "https://www.jagonews24.com/country/news/1184444",
+      "canonicalUrl": "https://jagonews24.com/country/news/1184444",
+      "guid": "https://www.jagonews24.com/country/news/1184444",
+      "publishedAt": "2026-11-27T21:52:39Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "c40406367fd8a87031bee5a1762e8d328bb035aa5609b92c6032fdd16b211e19"
+    },
+    {
+      "id": "69e62c5f63e8b7493ceea1d4",
+      "sourceId": "banglatribune",
+      "sourceName": "বাংলা ট্রিবিউন",
+      "title": "ডিসেম্বরে চালু হচ্ছে ২০০ শয্যাবিশিষ্ট রংপুর শিশু হাসপাতাল",
+      "description": "চলতি বছরের ডিসেম্বর মাসের দ্বিতীয় সপ্তাহে চালু হচ্ছে আধুনিক সুযোগ-সুবিধাসম্পন্ন ২০০ শয্যাবিশিষ্ট রংপুর শিশু হাসপাতাল (আরএসএইচ)। একইসঙ্গে সারা দেশে আরও চারটি ব…",
+      "url": "https://www.banglatribune.com/country/rangpur/983696/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%B6%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81",
+      "canonicalUrl": "https://banglatribune.com/country/rangpur/983696/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%B6%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81",
+      "guid": "https://www.banglatribune.com/country/rangpur/983696/%E0%A6%A1%E0%A6%BF%E0%A6%B8%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A7%87-%E0%A6%9A%E0%A6%BE%E0%A6%B2%E0%A7%81-%E0%A6%B9%E0%A6%9A%E0%A7%8D%E0%A6%9B%E0%A7%87-%E0%A7%A8%E0%A7%A6%E0%A7%A6-%E0%A6%B6%E0%A6%AF%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AC%E0%A6%BF%E0%A6%B6%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F-%E0%A6%B0%E0%A6%82%E0%A6%AA%E0%A7%81%E0%A6%B0-%E0%A6%B6%E0%A6%BF%E0%A6%B6%E0%A7%81",
+      "publishedAt": "2026-11-27T21:42:23Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "health",
+      "categoryName": "স্বাস্থ্য",
+      "isBreaking": false,
+      "contentHash": "63f11fe90160c3f6b2d8fca26f53b887d85581b4f96a5906054ef5d1a5cb4996"
+    },
+    {
+      "id": "1f0b81f2a6f7e950534aceb2",
+      "sourceId": "ajkerpatrika",
+      "sourceName": "আজকের পত্রিকা",
+      "title": "সড়কবিহীন দুই সেতু পড়ে আছে ৩ বছর",
+      "description": "সড়ক তো দূরের কথা, আশপাশের কয়েক কিলোমিটার এলাকার মধ্যে নেই কোনো জনবসতি। এ রকম একটি এলাকায় প্রায় সাড়ে ১৪ কোটি টাকা ব্যয়ে নির্মাণ করা হয়েছে ৯৫ মিটার দীর্ঘ…",
+      "url": "https://www.ajkerpatrika.com/bangladesh/jamalpur/ajp8rgsh2g6bw",
+      "canonicalUrl": "https://ajkerpatrika.com/bangladesh/jamalpur/ajp8rgsh2g6bw",
+      "guid": "https://www.ajkerpatrika.com/bangladesh/jamalpur/ajp8rgsh2g6bw",
+      "publishedAt": "2026-11-27T21:40:23Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "5e4fbf8fb3e7b7c00f73519caedf1e9c98fc712d8f85ac39598018904ed33592"
+    },
+    {
+      "id": "2eb5dce32cf679e654fb01dd",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo#1",
+      "publishedAt": "2026-11-27T21:40:01Z",
+      "firstSeenAt": "2026-11-27T20:56:04.620650Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "8399de84401925d07370af86bda3e231a0e5c74598954b776a2ccc34790dfa3e"
+    },
+    {
+      "id": "0387830787265a41aa2b31ef",
+      "sourceId": "ajkerpatrika",
+      "sourceName": "আজকের পত্রিকা",
+      "title": "১১ দলীয় জোট: জামায়াত ‘একতরফা’ সিদ্ধান্ত নেওয়ায় নাখোশ এনসিপি",
+      "description": "১১ দলীয় জোটে সিদ্ধান্ত গ্রহণ প্রক্রিয়া নিয়ে নাখোশ জোটের অন্যতম শরিক দল জাতীয় নাগরিক পার্টি (এনসিপি)। বাংলাদেশ জামায়াতে ইসলামী নিজেদের দলীয় ফোরামে সিদ্ধান…",
+      "url": "https://www.ajkerpatrika.com/politics/ajp73zzqxt985",
+      "canonicalUrl": "https://ajkerpatrika.com/politics/ajp73zzqxt985",
+      "guid": "https://www.ajkerpatrika.com/politics/ajp73zzqxt985",
+      "publishedAt": "2026-11-27T21:30:18Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "politics",
+      "categoryName": "রাজনীতি",
+      "isBreaking": false,
+      "contentHash": "a3d219ed7e2c773102075fe0a7e7d39c7e3c71672f4f886679ea6bd7e6e6c996"
+    },
+    {
+      "id": "2e081d79cbef4054d9ad6f15",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "আওয়ামী লীগ নেতাকে ধরতে গ্রামবাসীর বাধা, ফিরে গেল পুলিশ",
+      "description": "সিরাজগঞ্জের শাহজাদপুরে কার্যক্রম নিষিদ্ধ আওয়ামী লীগের নেতা ও পৌরসভার সাবেক মেয়র হালিমুল হক মিরুকে গ্রেপ্তার করতে গিয়ে গ্রামবাসীর বাধার মুখে পড়েছে পুলিশ। শু…",
+      "url": "https://www.ittefaq.com.bd/823338/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2",
+      "canonicalUrl": "https://ittefaq.com.bd/823338/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2",
+      "guid": "https://www.ittefaq.com.bd/823338/%E0%A6%86%E0%A6%93%E0%A7%9F%E0%A6%BE%E0%A6%AE%E0%A7%80-%E0%A6%B2%E0%A7%80%E0%A6%97-%E0%A6%A8%E0%A7%87%E0%A6%A4%E0%A6%BE%E0%A6%95%E0%A7%87-%E0%A6%A7%E0%A6%B0%E0%A6%A4%E0%A7%87-%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BE%E0%A6%AE%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%B0-%E0%A6%AC%E0%A6%BE%E0%A6%A7%E0%A6%BE-%E0%A6%AB%E0%A6%BF%E0%A6%B0%E0%A7%87-%E0%A6%97%E0%A7%87%E0%A6%B2",
+      "publishedAt": "2026-11-27T21:30:00Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "cf67270540dd0882724f5a449fe7819fe55ab96730d92820969083e6b8fec175"
+    },
+    {
+      "id": "d4ae6faf6e46a1e0e810b322",
+      "sourceId": "bbcnews",
+      "sourceName": "BBC News",
+      "title": "Charity founded in Captain Tom's name bids to be struck off",
+      "description": "The charity is now known as the 1189808 Foundation, having dropped the late fundraiser's name.",
+      "url": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_medium=RSS&at_campaign=rss",
+      "canonicalUrl": "https://bbc.co.uk/news/articles/c6jeqyqzy1y7o?at_campaign=rss&at_medium=RSS",
+      "guid": "https://www.bbc.co.uk/news/articles/c6jeqyqzy1y7o#1",
+      "publishedAt": "2026-11-27T21:26:30Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "international",
+      "categoryName": "আন্তর্জাতিক",
+      "isBreaking": false,
+      "contentHash": "32ea515c45e64e471dd73ba4c333e1dd0f80ef068dabfd7756d3b3cd0420ecbe"
+    },
+    {
+      "id": "c5fda0ce1d55abfa774b60dc",
+      "sourceId": "ajkerpatrika",
+      "sourceName": "আজকের পত্রিকা",
+      "title": "আজকের নামাজের সময়সূচি: ২৮ নভেম্বর ২০২৬",
+      "description": "নামাজ আমাদের জীবনের এক অবিচ্ছেদ্য অংশ। একজন মুমিনের জন্য নামাজ হলো আধ্যাত্মিক প্রশান্তি ও জীবনের বরকত লাভের সর্বোত্তম মাধ্যম। প্রতিদিন সময়মতো নামাজ আদায় করা…",
+      "url": "https://www.ajkerpatrika.com/islam/ajpqdjglpghui",
+      "canonicalUrl": "https://ajkerpatrika.com/islam/ajpqdjglpghui",
+      "guid": "https://www.ajkerpatrika.com/islam/ajpqdjglpghui",
+      "publishedAt": "2026-11-27T21:01:13Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "c5a316212392c524ecf7977f6fb89d945f34b6a17d027950a8ca04021aff699f"
+    },
+    {
+      "id": "c92aadd580d9082491f8fe00",
+      "sourceId": "ajkerpatrika",
+      "sourceName": "আজকের পত্রিকা",
+      "title": "মামলা ঝুলছে ৪০ হাজার বিচারক মাত্র ৫ জন",
+      "description": "বিচারক সংকটে ক্রমেই মামলাজট বাড়ছে দেশের সর্বোচ্চ আদালতে। বিচারক সংকটের কারণে আপিল বিভাগে একাধিক বেঞ্চও গঠন করা যাচ্ছে না। এর আগে সর্বোচ্চ ১১ জন বিচারপতি ছিলেন…",
+      "url": "https://www.ajkerpatrika.com/national/ajpc7c1oaui4c",
+      "canonicalUrl": "https://ajkerpatrika.com/national/ajpc7c1oaui4c",
+      "guid": "https://www.ajkerpatrika.com/national/ajpc7c1oaui4c",
+      "publishedAt": "2026-11-27T21:00:09Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "7dea4e9c78515c7b06e9bf2e84c6afef1ca19a33901f5e2d5d0ff09e9b419ebe"
+    },
+    {
+      "id": "c0688bcbab1f397b55581094",
+      "sourceId": "ittefaq",
+      "sourceName": "ইত্তেফাক",
+      "title": "ঝড়-বন্যায় বিপর্যস্ত যুক্তরাষ্ট্র বিদ্যুৎহীন ১০ লাখ গ্রাহক, ৪০০ ফ্লাইট বাতিল",
+      "description": "থ্যাংকসগিভিংডের ছুটিতে শক্তিশালী ঝড় ও একটানা বৃষ্টিতে তছনছ হয়ে গেছে যুক্তরাষ্ট্রের পূর্ব উপকূলীয় অঞ্চল। কোথাও কোথাও এর মধ্যেই বিপজ্জনক হারে চলছে তুষারপাত। ঝ…",
+      "url": "https://www.ittefaq.com.bd/823332/%E0%A6%9D%E0%A7%9C-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B9%E0%A7%80%E0%A6%A8%C2%A0%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96",
+      "canonicalUrl": "https://ittefaq.com.bd/823332/%E0%A6%9D%E0%A7%9C-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B9%E0%A7%80%E0%A6%A8%C2%A0%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96",
+      "guid": "https://www.ittefaq.com.bd/823332/%E0%A6%9D%E0%A7%9C-%E0%A6%AC%E0%A6%A8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A7%9F-%E0%A6%AC%E0%A6%BF%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%B8%E0%A7%8D%E0%A6%A4-%E0%A6%AF%E0%A7%81%E0%A6%95%E0%A7%8D%E0%A6%A4%E0%A6%B0%E0%A6%BE%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A6%B0-%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A7%81%E0%A7%8E%E0%A6%B9%E0%A7%80%E0%A6%A8%C2%A0%E0%A7%A7%E0%A7%A6-%E0%A6%B2%E0%A6%BE%E0%A6%96",
+      "publishedAt": "2026-11-27T21:00:00Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "89c41e692127f941b7816d56f758adc35944e31d951c4c23830ca5afd70f55c3"
+    },
+    {
+      "id": "9c0cda31f9a15a1264acac82",
+      "sourceId": "jagonews",
+      "sourceName": "জাগো নিউজ ২৪",
+      "title": "চাঁদপুরে মেঘনা এক্সপ্রেসের বগিতে আগুন",
+      "description": "চাঁদপুরে চট্টগ্রাম থেকে ছেড়ে আসা মেঘনা এক্সপ্রেস ট্রেনের একটি বগিতে আগুন দেওয়ার ঘটনা ঘটেছে। এতে বগিটির দুটি আসনসহ বেশ কিছু অংশ পুড়ে ক্ষতিগ্রস্ত হয়েছে। তবে…",
+      "url": "https://www.jagonews24.com/country/news/1184443",
+      "canonicalUrl": "https://jagonews24.com/country/news/1184443",
+      "guid": "https://www.jagonews24.com/country/news/1184443",
+      "publishedAt": "2026-11-27T20:56:11Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "67512563a80975a72d0378cea82a41b4b292cb80dee16869dbc0959ed47afc1b"
+    },
     {
       "id": "dbac66aea58eec152b4b61a7",
       "sourceId": "banglatribune",
@@ -177,22 +353,6 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "356233762e575cf0b500b6b3f0383d164ef72bf558cd8608b5ccc51328e5d1f7"
-    },
-    {
-      "id": "2eb5dce32cf679e654fb01dd",
-      "sourceId": "bbcnews",
-      "sourceName": "BBC News",
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "description": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
-      "canonicalUrl": "https://bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo#1",
-      "publishedAt": "2026-11-27T20:09:09Z",
-      "firstSeenAt": "2026-11-27T20:56:04.620650Z",
-      "category": "international",
-      "categoryName": "আন্তর্জাতিক",
-      "isBreaking": false,
-      "contentHash": "8399de84401925d07370af86bda3e231a0e5c74598954b776a2ccc34790dfa3e"
     },
     {
       "id": "e61e8d87248e48cd7d4b85c4",
@@ -470,7 +630,7 @@
       "id": "6026b2ec4099d05b880478bb",
       "sourceId": "tbs",
       "sourceName": "The Business Standard",
-      "title": "5 crude bombs explode at five Dhaka locations; one arrested",
+      "title": "5 crude bombs explode sperate locations in Dhaka; one arrested",
       "description": "Mizan alias Miju, organising secretary of the banned Chhatra League's Bhola unit, was arrested after two blasts in Hatirpool.",
       "url": "https://www.tbsnews.net/bangladesh/crime/5-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
       "canonicalUrl": "https://tbsnews.net/bangladesh/crime/5-crude-bombs-explode-five-dhaka-locations-one-arrested-1616086",
@@ -480,7 +640,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "964e2e686210a139337b929039c8dce6b9e5a3fb14485e7cc215933aab033038"
+      "contentHash": "efafb0d50a17dc43989ddb1f78a69785b70144b9f8398ac3f48d9191ac76195e"
     },
     {
       "id": "f95656e8ccaf8c168750e9a1",
@@ -1041,6 +1201,22 @@
       "categoryName": "জাতীয়",
       "isBreaking": false,
       "contentHash": "3690de04a02343c83d996e3185722fc1d1734adffefb526e98f2d30435944deb"
+    },
+    {
+      "id": "a8519fc430892c3f17d1b992",
+      "sourceId": "dailystar",
+      "sourceName": "The Daily Star",
+      "title": "Last week’s rain nearly doubles veggie prices",
+      "description": "Prices of most vegetables have nearly doubled in the capital’s kitchen markets over the past week, which is unusual at the start of winter when prices tend to…",
+      "url": "https://www.thedailystar.net/news/bangladesh/news/last-weeks-rain-nearly-doubles-veggie-prices-4334791",
+      "canonicalUrl": "https://thedailystar.net/news/bangladesh/news/last-weeks-rain-nearly-doubles-veggie-prices-4334791",
+      "guid": "https://www.thedailystar.net/news/bangladesh/news/last-weeks-rain-nearly-doubles-veggie-prices-4334791",
+      "publishedAt": "2026-11-27T18:00:00Z",
+      "firstSeenAt": "2026-11-27T21:55:32.400939Z",
+      "category": "national",
+      "categoryName": "জাতীয়",
+      "isBreaking": false,
+      "contentHash": "f5a58a052405fa1ede38d8ecb719323c37d10e4ed0ddb6ccc87ec9028a15cb0a"
     },
     {
       "id": "7410b025dce8d9c551783fb8",
@@ -2599,7 +2775,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "শনিবার ৯ ঘণ্টা বিদ্যুৎহীন থাকবে কুড়িগ্রামের দুই উপজেলা",
-      "description": "কুড়িগ্রামের রাজারহাট ও উলিপুর উপজেলায় শনিবার (২৮ নভেম্বর) বিদ্যুৎ সরবরাহ বন্ধ থাকবে। বার্ষিক রক্ষণাবেক্ষণ ও বিদ্যুৎ লাইনের আশপাশের গাছপালা কাটার জন্য এ সিদ্ধ…",
+      "description": "শনিবার ৯ ঘণ্টা বিদ্যুৎহীন থাকবে কুড়িগ্রামের দুই উপজেলা",
       "url": "https://www.jagonews24.com/country/news/1184429",
       "canonicalUrl": "https://jagonews24.com/country/news/1184429",
       "guid": "https://www.jagonews24.com/country/news/1184429",
@@ -2608,7 +2784,7 @@
       "category": "national",
       "categoryName": "জাতীয়",
       "isBreaking": false,
-      "contentHash": "8e83ddb15c002e429ddd311e8e2fe5de02011b871fb3426af03cc6b0848fd507"
+      "contentHash": "ca5d4dbb5a38b9fb66cea215fa0ed5be9e5e4721044aa5b049695f4f42ffe08c"
     },
     {
       "id": "bcda9ae465cf160c467fb9ca",
@@ -2711,7 +2887,7 @@
       "sourceId": "jagonews",
       "sourceName": "জাগো নিউজ ২৪",
       "title": "বিএএফ শাহীন কলেজের স্কুল শাখায় ভর্তি, জেনে নিন আবেদন-মানবণ্টন-সূচি",
-      "description": "দ্বিতীয় থেকে নবম শ্রেণিতে সীমিত সংখ্যক আসনে শিক্ষার্থী ভর্তি করা হবে। বাংলা ও ইংরেজি উভয় ভার্সনের দিবা শাখায়...",
+      "description": "বিএএফ শাহীন কলেজের স্কুল শাখায় ভর্তি, জেনে নিন আবেদন-মানবণ্টন-সূচি",
       "url": "https://www.jagonews24.com/education/news/1184428",
       "canonicalUrl": "https://jagonews24.com/education/news/1184428",
       "guid": "https://www.jagonews24.com/education/news/1184428",
@@ -2720,7 +2896,7 @@
       "category": "education",
       "categoryName": "শিক্ষা",
       "isBreaking": false,
-      "contentHash": "2d244854abd21669497fadc13be137c6006d3370d06374104156c2e60080f6b9"
+      "contentHash": "eade30a559e5379a08dc2d1025c05907452fcd0bf33f43b21bf5cb88ef451f4b"
     },
     {
       "id": "649b9c80f7c0de91498f2394",
@@ -11194,7 +11370,7 @@
       "description": "Health officials are urging those at risk of getting flu to get vaccinated as soon as possible.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_medium=RSS&at_campaign=rss",
       "canonicalUrl": "https://bbc.co.uk/news/articles/cwvg2ndxdjr2o?at_campaign=rss&at_medium=RSS",
-      "guid": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o#1",
+      "guid": "https://www.bbc.co.uk/news/articles/cwvg2ndxdjr2o#4",
       "publishedAt": "2026-11-27T09:57:37Z",
       "firstSeenAt": "2026-11-26T22:56:44.042983Z",
       "category": "international",
@@ -47825,182 +48001,6 @@
       "categoryName": "প্রযুক্তি",
       "isBreaking": false,
       "contentHash": "55f00714bbb6ca6549efcbddaebdc40d386c60c66828a8ea3ff7fd3ced24662e"
-    },
-    {
-      "id": "b810e887d1665b56b685f634",
-      "sourceId": "dhakatribune",
-      "sourceName": "Dhaka Tribune",
-      "title": "What are AI chips, and what’s so special about Nvidia’s?",
-      "description": "The commotion around Nvidia CEO Jensen Huang’s ouster and reinstatement, the central role of Nvidia in the US-China AI competition, and the US economy’s relian…",
-      "url": "https://www.dhakatribune.com/opinion/op-ed/425782/what-are-ai-chips-and-what%E2%80%99s-so-special-about",
-      "canonicalUrl": "https://dhakatribune.com/opinion/op-ed/425782/what-are-ai-chips-and-what%E2%80%99s-so-special-about",
-      "guid": "https://www.dhakatribune.com/opinion/op-ed/425782/what-are-ai-chips-and-what%E2%80%99s-so-special-about",
-      "publishedAt": "2026-11-26T03:25:52Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "6e77f9c2f2c88ff16db086072b5c17a2fe077432de57019404768bb413784043"
-    },
-    {
-      "id": "4970557da42de31518bc9a74",
-      "sourceId": "ajkerpatrika",
-      "sourceName": "আজকের পত্রিকা",
-      "title": "মিস ইউনিভার্স: মাহির দুঃখ প্রকাশ",
-      "description": "বিশ্বের ১১৬ জন প্রতিযোগীকে পেছনে ফেলে বিশ্বসুন্দরীর মুকুট জিতেছেন স্বাগতিক দেশ পুয়ের্তো রিকোর জেনিফার ব্যারেটো। ২৪ নভেম্বর পুয়ের্তো রিকোর রাজধানী সান হুয়ানে…",
-      "url": "https://www.ajkerpatrika.com/entertainment/ajpui09aya8ur",
-      "canonicalUrl": "https://ajkerpatrika.com/entertainment/ajpui09aya8ur",
-      "guid": "https://www.ajkerpatrika.com/entertainment/ajpui09aya8ur",
-      "publishedAt": "2026-11-26T03:25:33Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "entertainment",
-      "categoryName": "বিনোদন",
-      "isBreaking": false,
-      "contentHash": "1ee37a00f75d12a2033f654e63b8e8ef859a37157888710feaeec97fdafab109"
-    },
-    {
-      "id": "f3617b6b97d455cca8f8fa6e",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "যুক্তরাষ্ট্রের সহযোগিতায় কোস্টগার্ডের ২৪ দিনের যৌথ প্রশিক্ষণ সম্পন্ন",
-      "description": "যুক্তরাষ্ট্রের সহযোগিতায় কোস্টগার্ডের ২৪ দিনের যৌথ প্রশিক্ষণ সম্পন্ন",
-      "url": "https://www.jagonews24.com/national/news/1183812",
-      "canonicalUrl": "https://jagonews24.com/national/news/1183812",
-      "guid": "https://www.jagonews24.com/national/news/1183812",
-      "publishedAt": "2026-11-26T03:24:54Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "21ad1566e20edddef8e18da63075acd2fc708f7957ff4583c63ecac6c72b67e8"
-    },
-    {
-      "id": "38742ed6629d3e68b5058351",
-      "sourceId": "banglatribune",
-      "sourceName": "বাংলা ট্রিবিউন",
-      "title": "সরকারি চাকরিজীবীদের জন্য অনলাইনে বাসা বরাদ্দ, যেভাবে আবেদন",
-      "description": "সরকারি কর্মকর্তা-কর্মচারীদের জন্য সরকারি আবাসন পরিদপ্তরের আওতাধীন বিভিন্ন এলাকায় খালি থাকা বাসা ও ফ্ল্যাট অনলাইন পদ্ধতিতে বরাদ্দ দেওয়ার উদ্যোগ নেওয়া হয়েছে।…",
-      "url": "https://www.banglatribune.com/jobs/983303/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6",
-      "canonicalUrl": "https://banglatribune.com/jobs/983303/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6",
-      "guid": "https://www.banglatribune.com/jobs/983303/%E0%A6%B8%E0%A6%B0%E0%A6%95%E0%A6%BE%E0%A6%B0%E0%A6%BF-%E0%A6%9A%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%BF%E0%A6%9C%E0%A7%80%E0%A6%AC%E0%A7%80%E0%A6%A6%E0%A7%87%E0%A6%B0-%E0%A6%9C%E0%A6%A8%E0%A7%8D%E0%A6%AF-%E0%A6%85%E0%A6%A8%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%A8%E0%A7%87-%E0%A6%AC%E0%A6%BE%E0%A6%B8%E0%A6%BE-%E0%A6%AC%E0%A6%B0%E0%A6%BE%E0%A6%A6%E0%A7%8D%E0%A6%A6",
-      "publishedAt": "2026-11-26T03:22:19Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "519caf71af8688d22cbd7b65cf45a780005f2700773712cf9c3ed915c02531fc"
-    },
-    {
-      "id": "530c8740940720519606eb90",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "ঘূর্ণিঝড় আকভানে যশোরে চার হাজার হেক্টর ফসলের ক্ষতি",
-      "description": "ঘূর্ণিঝড় আকভানে যশোরে চার হাজার হেক্টর ফসলের ক্ষতি",
-      "url": "https://www.jagonews24.com/country/news/1183811",
-      "canonicalUrl": "https://jagonews24.com/country/news/1183811",
-      "guid": "https://www.jagonews24.com/country/news/1183811",
-      "publishedAt": "2026-11-26T03:21:19Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "national",
-      "categoryName": "জাতীয়",
-      "isBreaking": false,
-      "contentHash": "de95a437bf1802285fdcbf7b45efb9c0291c89905fc66600a81b90e135924724"
-    },
-    {
-      "id": "b45bda1e271b3ff4d72faa53",
-      "sourceId": "prothomalo",
-      "sourceName": "প্রথম আলো",
-      "title": "দক্ষিণ আফ্রিকায় কেন এত বাজে হার বাংলাদেশের",
-      "description": "দক্ষিণ আফ্রিকা সফরে প্রতিপক্ষের বোলাররা যখন চাপ তৈরি করেছেন, তখন সেই চাপ সামলে খেলার বদলে ব্যাটসম্যানরাই উইকেট দিয়ে এসেছেন।",
-      "url": "https://www.prothomalo.com/sports/cricket/eg9bk1e0cn",
-      "canonicalUrl": "https://prothomalo.com/sports/cricket/eg9bk1e0cn",
-      "guid": "68e4f125-5b08-4e22-b1c8-a2141bbf314b",
-      "publishedAt": "2026-11-26T03:20:46Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "sports",
-      "categoryName": "খেলা",
-      "isBreaking": false,
-      "contentHash": "0594e7967464c8e0b231dd803b0f9e65aab97b3ac613e82d3641bb33101a6c80"
-    },
-    {
-      "id": "9b3894341615df9ca3706fcc",
-      "sourceId": "ajkerpatrika",
-      "sourceName": "আজকের পত্রিকা",
-      "title": "দুই দশক পর টিভি সিরিজ হয়ে ফিরছে ‘অ্যাকুয়ামেরিন’",
-      "description": "দুই দশক পর আবারও ফিরছে জনপ্রিয় ফ্যান্টাসি ‘অ্যাকুয়ামেরিন’-এর মৎস্যকন্যার জাদুকরি জগৎ। ২০০৬ সালের সিনেমাটি অবলম্বনে এবার লাইভ-অ্যাকশন টিভি সিরিজ নির্মাণ করতে…",
-      "url": "https://www.ajkerpatrika.com/entertainment/hollywood/ajpn4lr8ufz60",
-      "canonicalUrl": "https://ajkerpatrika.com/entertainment/hollywood/ajpn4lr8ufz60",
-      "guid": "https://www.ajkerpatrika.com/entertainment/hollywood/ajpn4lr8ufz60",
-      "publishedAt": "2026-11-26T03:19:35Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "entertainment",
-      "categoryName": "বিনোদন",
-      "isBreaking": false,
-      "contentHash": "860980ba56ea84e86b8a9bb0b448f96fbbd49b0b214330042e2c534d281600be"
-    },
-    {
-      "id": "d136786a9e5f0eebd2ee1169",
-      "sourceId": "jagonews",
-      "sourceName": "জাগো নিউজ ২৪",
-      "title": "পিএসজির জয়রথ থামালো রোমা, ঘরের মাঠে পয়েন্ট হারালো চ্যাম্পিয়নরা",
-      "description": "পিএসজির জয়রথ থামালো রোমা, ঘরের মাঠে পয়েন্ট হারালো চ্যাম্পিয়নরা",
-      "url": "https://www.jagonews24.com/sports/football/1183810",
-      "canonicalUrl": "https://jagonews24.com/sports/football/1183810",
-      "guid": "https://www.jagonews24.com/sports/football/1183810",
-      "publishedAt": "2026-11-26T03:17:34Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "sports",
-      "categoryName": "খেলা",
-      "isBreaking": false,
-      "contentHash": "fad04bafa09c641bbaacf3a231f9e9a9cd497bc167e4ca25eaf6e7f982e57aad"
-    },
-    {
-      "id": "dc4d9d8ed0cc6385b495af2a",
-      "sourceId": "banglatribune",
-      "sourceName": "বাংলা ট্রিবিউন",
-      "title": "টিভিতে আজকের খেলা (২৬ নভেম্বর, ২০২৬)",
-      "description": "প্রতিদিনের মতো আজও টেলিভিশনের পর্দায় থাকছে বিভিন্ন খেলা। দেশের ও আন্তর্জাতিক অঙ্গনের এসব ম্যাচের মধ্যে কোনগুলো কখন, কোন চ্যানেলে সরাসরি দেখা যাবে—চলুন জেনে নে…",
-      "url": "https://www.banglatribune.com/sport/other-sports/983230/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%AC-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-      "canonicalUrl": "https://banglatribune.com/sport/other-sports/983230/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%AC-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-      "guid": "https://www.banglatribune.com/sport/other-sports/983230/%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%A4%E0%A7%87-%E0%A6%86%E0%A6%9C%E0%A6%95%E0%A7%87%E0%A6%B0-%E0%A6%96%E0%A7%87%E0%A6%B2%E0%A6%BE-%E0%A7%A8%E0%A7%AC-%E0%A6%A8%E0%A6%AD%E0%A7%87%E0%A6%AE%E0%A7%8D%E0%A6%AC%E0%A6%B0-%E0%A7%A8%E0%A7%A6%E0%A7%A8%E0%A7%AC",
-      "publishedAt": "2026-11-26T03:16:54Z",
-      "firstSeenAt": "2026-11-26T00:23:43.228518Z",
-      "category": "sports",
-      "categoryName": "খেলা",
-      "isBreaking": false,
-      "contentHash": "be24e2e578df6aababbab331fea1ae93ec7a4befd21a3eec9a8eb1f01c3a1ff1"
-    },
-    {
-      "id": "d2553e3a6034d1f54b70ef92",
-      "sourceId": "banglatribune",
-      "sourceName": "বাংলা ট্রিবিউন",
-      "title": "কন্টেন্ট ক্রিয়েটরকে আইনি নোটিশ পাঠালেন শাহরুখ",
-      "description": "সামাজিক যোগাযোগমাধ্যমে একটি ভিডিও ছড়িয়ে পড়েছে বলিউড অভিনেতা শাহরুখ খানের। সেখানে দাবি করা হয়েছে, অনন্ত আম্বানি নাকি তাকে চুপ থাকতে বলেছিলেন। সেই দাবিকে ‘বি…",
-      "url": "https://www.banglatribune.com/entertainment/983302/%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%BF-%E0%A6%A8%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A7%81%E0%A6%96",
-      "canonicalUrl": "https://banglatribune.com/entertainment/983302/%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%BF-%E0%A6%A8%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A7%81%E0%A6%96",
-      "guid": "https://www.banglatribune.com/entertainment/983302/%E0%A6%95%E0%A6%A8%E0%A7%8D%E0%A6%9F%E0%A7%87%E0%A6%A8%E0%A7%8D%E0%A6%9F-%E0%A6%95%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A7%9F%E0%A7%87%E0%A6%9F%E0%A6%B0%E0%A6%95%E0%A7%87-%E0%A6%86%E0%A6%87%E0%A6%A8%E0%A6%BF-%E0%A6%A8%E0%A7%8B%E0%A6%9F%E0%A6%BF%E0%A6%B6-%E0%A6%AA%E0%A6%BE%E0%A6%A0%E0%A6%BE%E0%A6%B2%E0%A7%87%E0%A6%A8-%E0%A6%B6%E0%A6%BE%E0%A6%B9%E0%A6%B0%E0%A7%81%E0%A6%96",
-      "publishedAt": "2026-11-26T03:16:41Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "entertainment",
-      "categoryName": "বিনোদন",
-      "isBreaking": false,
-      "contentHash": "53018941c7ccfb0211604e7a7d56d5bd7dca6004610c36444e0b80efa402f7a3"
-    },
-    {
-      "id": "f79142fe8f25176e402445ed",
-      "sourceId": "deshrupantor",
-      "sourceName": "দেশ রূপান্তর",
-      "title": "পাকিস্তানি সিরিজ ‘জো বাঁচায় হ্যায় গান সমইত লো’ ভারতে নিষিদ্ধের দাবি",
-      "description": "নেটফ্লিক্সের প্রথম পাকিস্তানি অরিজিনাল সিরিজ ‘জো বাচে হ্যায় সং সমেত লো’ ভারতে নিষিদ্ধ করার দাবি উঠেছে। তবে এখনও ভারত সরকার বা নেটফ্লিক্সের পক্ষ থেকে চূড়ান্ত…",
-      "url": "https://www.deshrupantor.com/738015/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E2%80%98%E0%A6%9C%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A6%87%E0%A6%A4-%E0%A6%B2%E0%A7%8B%E2%80%99",
-      "canonicalUrl": "https://deshrupantor.com/738015/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E2%80%98%E0%A6%9C%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A6%87%E0%A6%A4-%E0%A6%B2%E0%A7%8B%E2%80%99",
-      "guid": "https://www.deshrupantor.com/738015/%E0%A6%AA%E0%A6%BE%E0%A6%95%E0%A6%BF%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%BE%E0%A6%A8%E0%A6%BF-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%9C-%E2%80%98%E0%A6%9C%E0%A7%8B-%E0%A6%AC%E0%A6%BE%E0%A6%81%E0%A6%9A%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%B9%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC-%E0%A6%97%E0%A6%BE%E0%A6%A8-%E0%A6%B8%E0%A6%AE%E0%A6%87%E0%A6%A4-%E0%A6%B2%E0%A7%8B%E2%80%99",
-      "publishedAt": "2026-11-26T03:16:38Z",
-      "firstSeenAt": "2026-11-26T03:58:26.196536Z",
-      "category": "entertainment",
-      "categoryName": "বিনোদন",
-      "isBreaking": false,
-      "contentHash": "48c4c01073e69fdbe1e145ec60d3642271ac58dfdc66b0d710b93e35d950e9f1"
     }
   ],
   "sources": [
@@ -48010,7 +48010,7 @@
       "url": "https://www.prothomalo.com",
       "status": "ok",
       "reason": "",
-      "count": 437
+      "count": 436
     },
     {
       "id": "dailystar",
@@ -48018,7 +48018,7 @@
       "url": "https://www.thedailystar.net",
       "status": "ok",
       "reason": "",
-      "count": 24
+      "count": 25
     },
     {
       "id": "ittefaq",
@@ -48026,7 +48026,7 @@
       "url": "https://www.ittefaq.com.bd",
       "status": "ok",
       "reason": "",
-      "count": 286
+      "count": 288
     },
     {
       "id": "jugantor",
@@ -48066,7 +48066,7 @@
       "url": "https://www.dhakatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 170
+      "count": 169
     },
     {
       "id": "banglatribune",
@@ -48074,7 +48074,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 384
+      "count": 382
     },
     {
       "id": "tbs",
@@ -48098,7 +48098,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 557
+      "count": 556
     },
     {
       "id": "banglanews24",
@@ -48146,7 +48146,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 371
+      "count": 370
     },
     {
       "id": "ajkerpatrika",
@@ -48154,7 +48154,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 407
+      "count": 409
     },
     {
       "id": "kalbela",
@@ -48250,7 +48250,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 139
+      "count": 140
     },
     {
       "id": "bbcbangla",
