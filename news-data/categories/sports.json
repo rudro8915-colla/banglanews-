@@ -2,8 +2,13 @@
   "schemaVersion": 1,
   "category": "sports",
   "label": "খেলা",
-  "generatedAt": "2026-11-27T17:54:51.237184Z",
+  "generatedAt": "2026-11-27T18:57:09.187510Z",
   "articleIds": [
+    "421b86b1697cf5d2361bea57",
+    "710a9ef5aa11e64833f099d6",
+    "6f4665b35c2d4d898b6bf3ab",
+    "d8012308e868c8bd2e2258fc",
+    "92395e867f86446a56d68fe8",
     "fea721fbf6ec715f3653e37b",
     "f61780bea96aae4b35b91133",
     "341fcda8c5c449ccd11ec36a",
@@ -20,7 +25,6 @@
     "b6525ecc4e9c866001e2bc57",
     "820b3c378b3849c0b589db7a",
     "e9eae8e8c36f24ba826bd7ef",
-    "6f4665b35c2d4d898b6bf3ab",
     "e54719205e245156165165e1",
     "1b727231b8e1a5442be5f64d",
     "3d98e28167d7fb02316c3240",
@@ -276,8 +280,6 @@
     "7144c093706bddf312c7d948",
     "f5baacd6daa4f60582bbe4d2",
     "bf2fa1ff2b12e152af9460c0",
-    "a8c484c6fe671881683417e3",
-    "e7e8ae8cb3b037e93bcd2b08",
-    "1df74119b3864ef387ac5b6e"
+    "a8c484c6fe671881683417e3"
   ]
 }
