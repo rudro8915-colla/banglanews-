@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T23:52:04.851647Z",
+  "generatedAt": "2026-11-28T01:10:03.657973Z",
   "sources": [
     {
       "id": "prothomalo",
       "name": "প্রথম আলো",
       "url": "https://www.prothomalo.com",
-      "status": "ok",
-      "reason": "",
-      "count": 432
+      "status": "cached",
+      "reason": "ValueError",
+      "count": 426
     },
     {
       "id": "dailystar",
@@ -72,7 +72,7 @@
       "url": "https://www.banglatribune.com",
       "status": "ok",
       "reason": "",
-      "count": 383
+      "count": 381
     },
     {
       "id": "tbs",
@@ -80,7 +80,7 @@
       "url": "https://www.tbsnews.net",
       "status": "ok",
       "reason": "",
-      "count": 168
+      "count": 167
     },
     {
       "id": "bdnews24",
@@ -96,7 +96,7 @@
       "url": "https://www.jagonews24.com",
       "status": "ok",
       "reason": "",
-      "count": 554
+      "count": 548
     },
     {
       "id": "banglanews24",
@@ -144,7 +144,7 @@
       "url": "https://www.deshrupantor.com",
       "status": "ok",
       "reason": "",
-      "count": 369
+      "count": 386
     },
     {
       "id": "ajkerpatrika",
@@ -152,7 +152,7 @@
       "url": "https://www.ajkerpatrika.com",
       "status": "ok",
       "reason": "",
-      "count": 407
+      "count": 403
     },
     {
       "id": "kalbela",
@@ -248,7 +248,7 @@
       "url": "https://www.bbc.com/news",
       "status": "ok",
       "reason": "",
-      "count": 144
+      "count": 146
     },
     {
       "id": "bbcbangla",
