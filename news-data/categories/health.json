@@ -2,8 +2,12 @@
   "schemaVersion": 1,
   "category": "health",
   "label": "স্বাস্থ্য",
-  "generatedAt": "2026-11-28T12:57:03.546021Z",
+  "generatedAt": "2026-11-28T14:02:44.465244Z",
   "articleIds": [
+    "d70a9e6aaf7130535f048c64",
+    "d967886f761892c90f0b7822",
+    "14b9ef822b4844447e6fde1b",
+    "10edd422e0b748ec19568e65",
     "4e8a7f57651c952cbd2105b4",
     "fdfc85fd20dc61b266a0f505",
     "9590fc187a32efc158433dc3",
@@ -69,9 +73,6 @@
     "1866c4a6cb2e344e64410d35",
     "ef7b702806453f2128ece64f",
     "04f5f5f5c18aa8338e18febf",
-    "2e8299aadbf2fff7f00af498",
-    "17359f71563140c794617ff2",
-    "e72e9720f6529d16a3a5b87f",
-    "3571f1815f3e3f28673d8495"
+    "2e8299aadbf2fff7f00af498"
   ]
 }
